@@ -1,7 +1,7 @@
 ---
 title: "Sex modulation of faces prediction error in the autistic brain"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-01-25-Sex-modulation-of-fces-prediction-error-in-the-autistic-brain
 excerpt: 'This paper address the question of distinct neurophysiological functionning in autistic males and females using a Visual Mismatch paradigm in EEG.'
 date: 2024/01/25
 venue: 'Communications Biology'
