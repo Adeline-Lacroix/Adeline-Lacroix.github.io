@@ -1,88 +1,95 @@
 ---
-layout: archive
 title: "CV"
+layout: archive
 permalink: /cv/
+output:
+  html_document:
+    df_print: paged
+redirect_from: /resume
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* 2018.22 - PhD in Psychology and cognitive neurosciences. | Laboratoire de Psychologie et Neurocognition (Grenoble). Supervisors : Pr M. Mermillod (Grenoble), Dr M. Gomot (Tours) – Predictive mechanisms during the processing of socio-emotional stimuli in autistic adults.
-PhD mobility  - Cognitive Neuroscience and Computational Psychiatry Lab (Melbourne, Australia) – Supervisor : Pr. Marta Garrido (sept - nov 2022) – Training in SPM (DCM).
-* 2022 - Master’s thesis,  Neuropsychology and Clinical Neurosciences | Grenoble Alpes University, France.
-* 2016.17 - Bachelor’s honours, Psychology, Neuropsychology | Savoie Mont-Blanc University, France
-* 2014.16 - Bachelor in Psychology | IED Paris 8, France.
-* 2012. 13 - Certificate of professional aptitude for specialized aids, adapted teaching and disabled student schooling|  IUFM Bonneville, France. Certification to be a licensed teacher for students with special needs.
-2007.08 - Master’s equivalent - Certificate in Primary Education |  IUFM Bonneville, France. Certification as a primary school teacher.
-* 2003.06 - Bachelor’s honours equivalent, Art and Culture studies | University of Nîmes / University of Malta, France / Malta.
-2001.03 - Preparatory classes for engineering school | University of Technology Belfort-Montbeliard, France.
+## Education
 
-Post-doctoral experience
-======
-* 2023.24 - Post-Doctoral researcher | LPNC – Grenoble Alpes University/CNRS – Supervisors : Pr. M. Baciu et Dr. M. Perrone. Identifying the factors influencing scholar and social participation in autistic children using structural
-equation modeling.
+- **2018 - 2022**  
+  PhD in Psychology and Cognitive Neurosciences, Laboratoire de Psychologie et Neurocognition (Grenoble)  
+  **Supervisors**: Pr M. Mermillod (Grenoble), Dr M. Gomot (Tours)  
+  **Dissertation**: Predictive mechanisms during the processing of socio-emotional stimuli in autistic adults.
 
-* 2023, January - Research Engineer | iMind –Le Vinatier Hospital (Lyon) – Supervision : Pr. C. Demily. Parenthood in autism. Building a survey in a participatory research framework, aimed at investigating the representations of health,
-education and justice professionals on parenthood in autism, compared to those of autistic parents.
+- **2022**  
+  PhD Mobility, Cognitive Neuroscience and Computational Psychiatry Lab (Melbourne, Australia)  
+  **Supervisor**: Pr Marta Garrido (Sept - Nov 2022)  
+  **Training in**: SPM (DCM)
 
-  
-Competitive awards and fellowship
-======
-* 2024
-1.	Nominated by the CNRS for the Women Impact Award – Falling Walls 2024
-2.	CIHR fellowship – 45,000 CAD /year for 3 years. Rank 14th on 484 in competition – starting from 2024-09-01
-3.	Womenmind 2024 postdoctoral research award – Declined the 60,000 CAD due to acceptance of CIHR but accepted the top-up of 20,000 offered as a complement to the CIHR fellowship.
-* 2023
-4.	Thesis Price of the Grenoble Alpes University (one of the six academic prizes winner among 684 PhD graduates) – 1,500 €
-* 2022
-5. Young Talents Award for Women in Science – L’Oréal - UNESCO Fundation, France (one of the 30 laureates among more than 700 candidates) – 15,000 €
-6.	Mobility Grant CBH Graduate school ( ANR-17-EURE-003) – Grenoble Alpes University, France – 3,050 €
-7.	Mobility Grant IDEX –  Grenoble Alpes University, France – 1,600 €
-8.	Mobility Grant – Scientific Interest Group for autism and neurodevelopmental disorder – 2,000 €
-9.	GIS mobility Grant – Scientific Group for Autism and Neurodevelopmental disorders, France
-* 2018
-10.	Mobility Grant – Scientific Interest Group for autism and neurodevelopmental disorder – 2,000 €
+- **2017 - 2018**  
+  Master's Thesis, Neuropsychology and Clinical Neurosciences, Grenoble Alpes University, France.
 
-Competitive grant writing and reserach funding history
-======
-- 2023.24
-1.	FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults
-Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. Institut Carnot Cognition – 25,000 €
-2.	FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults
-Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. CERCOG call for proposal collaboration and functioning – 6,400 €
-3.	FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults
-Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. CERCOG call for proposal initiation – 3,558 €
+- **2016 - 2017**  
+  Bachelor's Honours, Psychology, Neuropsychology, Savoie Mont-Blanc University, France.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-- 2024 - present : Member of the work team “Participatory research school” – organization of the first participatory research school in Autism and Neurodevelopmental Disorder in 2025 with the Scientific Interest Group for Autism and Neurodevelopmental Disorders
-- 2021 - present : Reviewer for Visual Cognition, Neuropsychiatric Disease and Treatment, Autism, Brain Research, Journal of Autism and Developpemental Disorder
-- 2020 - present : Contribution to the organization of conferences with the national Scientific Interest Group for Autism and Neurodevelopmental Disorders
-- 2023 : Committee Member of the research focus group for the inter-ministerial delegation for the national autism strategy (2023 – 2027)
-- 2021 : Member of the scientific committee for the 2nd national conference on autism. November 19 – 20 2021. Bern, Switzerland.
-- 2024 :  Labtimes organization 
+- **2014 - 2016**  
+  Bachelor's Degree, Psychology, IED Paris 8, France.
 
+- **2012 - 2013**  
+  Certificate of Professional Aptitude for Specialized Aids, Adapted Teaching, and Disabled Student Schooling, IUFM Bonneville, France.  
+  Certified teacher for students with special needs.
 
+- **2007 - 2008**  
+  Master’s Equivalent - Certificate in Primary Education, IUFM Bonneville, France.  
+  Certified as a primary school teacher.
 
+- **2003 - 2006**  
+  Bachelor's Honours Equivalent, Art and Culture Studies, University of Nîmes / University of Malta, France / Malta.
+
+- **2001 - 2003**  
+  Preparatory Classes for Engineering School, University of Technology Belfort-Montbéliard, France.
+
+---
+
+## Postdoctoral Research Experience
+
+- **2023 - 2024**  
+  Postdoctoral Researcher, LPNC – Grenoble Alpes University/CNRS  
+  **Supervisors**: Pr M. Baciu and Dr M. Perrone  
+  **Research Focus**: Identifying factors influencing scholar and social participation in autistic children using structural equation modeling.
+
+- **2023**  
+  Research Engineer, iMind – Le Vinatier Hospital (Lyon)  
+  **Supervision**: Pr C. Demily  
+  **Project**: Parenthood in Autism – Building a participatory research survey on health, education, and justice professionals' representations of parenthood in autism, compared to autistic parents' perspectives.
+
+---
+
+## Research Projects
+
+- **2024 - Present**  
+  fGQ-ASC – Validation of the French version of the Girl Questionnaire for Autism Spectrum Condition  
+  **Role**: Project co-leader with Pr Clément Dondé (University Hospital Grenoble – Grenoble Neuroscience Institute)  
+  **Tasks**: Project development, writing, ethics, survey creation, participant recruitment.
+
+- **2024 - Present**  
+  AUTISENCITE – Interdisciplinary and participatory research on sensory evaluation methodology for urban environments tailored to autistic individuals.  
+  **Role**: Consortium member  
+  **Tasks**: Project revision.
+
+- **2023 - Present**  
+  FLEXPREAUT – Investigation of neurofunctional underpinnings of predictions in emotional flexibility in autistic males and females.  
+  **Role**: Project co-leader with Pr Monica Baciu, Pr Martial Mermillod, Dr Emilie Cousin (Laboratory of Psychology and NeuroCognition – Grenoble)  
+  **Tasks**: Project development, writing, ethics, clinical trials registration, financing, participant recruitment, data analysis.
+
+- **2021 - Present**  
+  PARAUTIS – Participatory research project on parenthood in autistic adults.  
+  **Role**: Project co-leader with Pr Caroline Demily (iMind – Vinatier Hospital), Marine Dubreucq (Saint Etienne), Daniele Langloys (Autism France), Magali Pignard (PAARI)  
+  **Tasks**: Project development, writing, ethics, survey creation, participant recruitment, data interpretation.
+
+- **2022 - 2024**  
+  PARTDIAG-TSA – Project on diagnostic journeys and school participation in autistic children and teenagers in Savoie and Isère counties.  
+  **Role**: Postdoctoral researcher  
+  **Tasks**: Data analysis, interpretation, and writing.
+
+- **2018 - 2022**  
+  PREDEMAUT – Predictive brain and face processing in adult autistic males and females.  
+  **Role**: Thesis research project and co-leader  
+  **Tasks**: Project development, writing, ethics, financing, task development, participant recruitment, data analysis, interpretation.
