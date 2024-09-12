@@ -11,21 +11,22 @@ author_profile: true
 
 {% include base_path %}
 
-### EDUCATION
+## EDUCATION
 
-- **2018-2022**: PhD in Psychology and Cognitive Neurosciences - Laboratoire de Psychologie et Neurocognition, Grenoble, France
+- **2018-2022**: **PhD in Psychology and Cognitive Neurosciences** - Laboratoire de Psychologie et Neurocognition, Grenoble, France
+
   **Supervisors**: Pr M. Mermillod (Grenoble), Dr M. Gomot (Tours)  
   **Research project**:Predictive mechanisms during the processing of socio-emotional stimuli in autistic adults.
 
-- **2022**: PhD mobility - Cognitive Neuroscience and Computational Psychiatry Lab, Melbourne, Australia  
+- **2022**: **PhD mobility** - Cognitive Neuroscience and Computational Psychiatry Lab, Melbourne, Australia  
   **Supervisor**: Pr. Marta Garrido (Sept - Nov 2022)  
   **Activity**: Training in SPM (DCM).
 
-- **2017-2018**: Master’s thesis in Neuropsychology and Clinical Neurosciences - Grenoble Alpes University, France.
+- **2017-2018**: **Master’s thesis in Neuropsychology and Clinical Neurosciences** - Grenoble Alpes University, France.
 
-- **2016-2017**: Bachelor’s honours in Psychology, specialized in Neuropsychology - Savoie Mont-Blanc University, France.
+- **2016-2017**: **Bachelor’s honours in Psychology, specialized in Neuropsychology** - Savoie Mont-Blanc University, France.
 
-- **2014-2016**: Bachelor in Psychology - IED,  Paris 8, France.
+- **2014-2016**: **Bachelor in Psychology** - IED,  Paris 8, France.
 
 - **2012-2013**: Certificate of professional aptitude for specialized aids, adapted teaching, and disabled student schooling - IUFM, Bonneville, France  
   Certification to be a licensed teacher for students with special needs.
@@ -38,15 +39,15 @@ author_profile: true
 - **2001-2003**: Preparatory classes for engineering school - University of Technology Belfort-Montbeliard, France.
 
 
-### POST-DOCTORAL EXPERIENCES
+## POST-DOCTORAL EXPERIENCES
 
-**PRESENT POSITION**
+### Present Position
 
 - **2024-present**: Post-Doctoral Researcher- Centre for Addiction and Mental Health, Toronto, Canada  
   **Supervisor**: Dr Meng-Chuan Lai  
   **Research project**: Investigation of the neurofunctional and behavioral profiles of autistic females using normative modeling.
   
-**PAST POSITION**
+### PAST POSITION
 
 - **2023-2024**: Post-Doctoral Researcher - LPNC , Grenoble Alpes University/CNRS, France  
   **Supervisors**: Pr. M. Baciu and Dr. M. Perrone  
@@ -56,62 +57,62 @@ author_profile: true
   **Supervisor**: Pr. C. Demily  
   **Research project**: Parenthood in autism. Building a survey in a participatory research framework, investigating representations of health, education, and justice professionals on parenthood in autism, compared to those of autistic parents.
 
-### RESEARCH PROJECTS
+## RESEARCH PROJECTS
 
-- **2024-present**: Inform-AFH – Inform Autistic Female Heterogeneity : Investigation of the neurofunctional and behavioral profiles of autistic females using normative modeling
+- **2024-present**: **Inform-AFH** – Inform Autistic Female Heterogeneity : Investigation of the neurofunctional and behavioral profiles of autistic females using normative modeling. 
   **Role**: Project co-leader with Dr Meng-Chuan Lai (Center for Addiction and Mental Health, Toronto, Canada)
-  **Tasks**: Project developement and grant writing, data analysis, writing
+  **Tasks**: Project development and grant writing, data analysis, writing
 
-- **2024-present**: fGQ-ASC – Validation of the French version of the Girl Questionnaire for Autism Spectrum Condition  
+- **2024-present**: **fGQ-ASC** – Validation of the French version of the Girl Questionnaire for Autism Spectrum Condition  
   **Role**: Project co-leader with Pr Clément Dondé (University Hospital Grenoble – Grenoble Neuroscience Institute, Grenoble, France)  
   **Tasks**: Participation in project development and writing, ethics, online survey creation, recruitment of participants.
 
-- **2024-present**: AUTISENCITE – Interdisciplinary and participatory research to develop a sensory evaluation methodology for urban environments, tailored to the sensory and cognitive characteristics of autistic individuals across the spectrum. ANR project led by Dr. Marie Pieron (Integrative Neuroscience and Cognition Center, Paris, France).  
+- **2024-present**: **AUTISENCITE** – Interdisciplinary and participatory research to develop a sensory evaluation methodology for urban environments, tailored to the sensory and cognitive characteristics of autistic individuals across the spectrum. ANR project led by Dr. Marie Pieron (Integrative Neuroscience and Cognition Center, Paris, France).  
   **Role**: Consortium member  
   **Tasks**: Project revision.
 
-- **2023-present**: FLEXPREAUT – Investigating the neurofunctional underpinnings of predictions in emotional flexibility in autistic males and females.  
+- **2023-present**: **FLEXPREAUT** – Investigating the neurofunctional underpinnings of predictions in emotional flexibility in autistic males and females.  
   **Role**: Project co-leader with Pr Monica Baciu, Pr Martial Mermillod, Dr Emilie Cousin (Laboratory of Psychology and NeuroCognition – Grenoble, France)  
   **Tasks**: Project development and writing, ethics, clinical trials registration, financing, recruitment of participants, data analysis.
 
-- **2021-present**: PARAUTIS – Participatory research project on parenthood in autistic adults.  
-  **Role**: Project co-leader with Pr Caroline Demily (iMind – Vinatier Hospital), Marine Dubreucq (Saint Etienne), Daniele Langloys (Autism France organization), Magali Pignard (PAARI organization) - France
+- **2021-present**: **PARAUTIS** – Participatory research project on parenthood in autistic adults.  
+  **Role**: Project co-leader with Pr Caroline Demily (iMind – Vinatier Hospital), Marine Dubreucq (Saint Etienne), Daniele Langloys (Autism France organization), Magali Pignard (PAARI organization) - France. 
   **Tasks**: Project development and writing, ethics, online survey creation, recruitment of participants, data interpretation.
 
-- **2022-2024**: PARTDIAG-TSA – Investigating the diagnostic journey and school participation in autistic children and teenagers of Savoie and Isere counties.  
-  **Role**: Post-doctoral researcher - Poject lead by Dr Anne Ego and Pr Monica Baciu (Grenoble, France)
+- **2022-2024**: **PARTDIAG-TSA** – Investigating the diagnostic journey and school participation in autistic children and teenagers of Savoie and Isere counties.  
+  **Role**: Post-doctoral researcher - Poject lead by Dr Anne Ego and Pr Monica Baciu (Grenoble, France). 
   **Tasks**: Data analysis and interpretation, writing.
 
-- **2018-2022**: PREDEMAUT – Predictive brain and face processing in adult autistic males and females.  
-  **Role**: Thesis research project and project co-leader - Supervised by Pr Martial Mermillod and Dr Marie Gomot (France)
+- **2018-2022**: **PREDEMAUT** – Predictive brain and face processing in adult autistic males and females.  
+  **Role**: Thesis research project and project co-leader - Supervised by Pr Martial Mermillod and Dr Marie Gomot (France). 
   **Tasks**: Project development and writing, ethics, financing, task development, recruitment of participants, data analyses, data interpretation.
   
-### GRANT & AWARDS
+  
+## GRANT & AWARDS
 
-**COMPETITIVE AWARDS AND FELLOWSHIPS**
+### Competitive awards and fellowships
 
 - **2024**: 
-  1. Nominated by the CNRS for the Women Impact Award – Falling Walls 2024, and selected as one of the 7 finalists (among 83 nominated internationally).
-  2. CIHR fellowship – 70,000 CAD/year for 3 years. Rank 14th out of 484 in competition – starting from 2024-09-01.
-  3. Womenmind 2024 postdoctoral research award – Declined 60,000 CAD due to acceptance of CIHR.
+  1. Nominated by the CNRS for the **Women Impact Award** – Falling Walls 2024, and selected as one of the 7 finalists (among 83 nominated internationally).
+  2. **CIHR fellowship** – 70,000 CAD/year for 3 years. Rank 14th out of 484 in competition – starting from 2024-09-01.
+  3. **Womenmind** 2024 postdoctoral research award – Declined 60,000 CAD due to acceptance of CIHR.
 
 - **2023**: 
-  4. Thesis Prize of Grenoble Alpes University – 1,500 €.
-  5. Young Talents Award for Women in Science – L’Oréal - UNESCO Foundation, France – 15,000 €.
-  6. Mobility Grant CBH Graduate School (ANR-17-EURE-003) – Grenoble Alpes University, France – 3,050 €.
-  7. Mobility Grant IDEX – Grenoble Alpes University, France – 1,600 €.
-  8. Mobility Grant – Scientific Interest Group for autism and neurodevelopmental disorders – 2,000 €.
-  9. GIS Mobility Grant – Scientific Group for Autism and Neurodevelopmental disorders, France.
+  4. **Thesis Prize** of Grenoble Alpes University – 1,500 €.
+  5. **Young Talents Award for Women in Science** – L’Oréal - UNESCO Foundation, France – 15,000 €.
+  6. **Mobility Grant CBH Graduate School** (ANR-17-EURE-003) – Grenoble Alpes University, France – 3,050 €.
+  7. **Mobility Grant IDEX** – Grenoble Alpes University, France – 1,600 €.
+  8. **Mobility Grant – Scientific Interest Group for autism and neurodevelopmental disorders** – 2,000 €.
 
 - **2018-2022**: 
-  10. PhD Fellowship – French Ministry of Higher Education and Research, France.
+  10. **PhD Fellowship – French Ministry of Higher Education and Research**, France.
 
-**COMPETITIVE GRANT WRITING AND RESEARCH FUNDING HISTORY**
+### Competitve grant wrting and reseragc funding history
 
 - **2023-2024**: 
-  1. FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. Institut Carnot Cognition – 25,000 €.
-  2. FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. CERCOG call for proposal collaboration and functioning – 6,400 €.
-  3. FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. CERCOG call for proposal initiation – 3,558 €.
+  1. FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. **Institut Carnot Cognition** – 25,000 €.
+  2. FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. **CERCOG call for proposal collaboration and functioning** – 6,400 €.
+  3. FLEXPREAUT project - Neurofunctional Specificities in Autistic and Non-Autistic Adults Regarding Predictive Processes in High-Level Cognitive Flexibility Tasks. **CERCOG call for proposal initiation** – 3,558 €.
 
 ## Publications
 
@@ -149,6 +150,7 @@ author_profile: true
 
 2. Rynkiewicz, A., Domarecki, P., Pieniążek, A., Ossolińska, A., **Lacroix, A.**, Sykała, A., Klecha, G. (2023). ECHO Autism Poland STAT and the GQ-ASC (Q-ASC) questionnaire. The use of autism screening assessments in the ECHO Autism Poland model. Poland: Wydawnictwo Uniwersytetu Rzeszowskiego.
 
+## CONFERENCE AND SEMINARS (with a scientific main audience)
 ### Talks
 1. **Lacroix, A.** (2024, June 26). Predictive mechanisms during socio-emotional processing in autistic adults. Laboratory of Interactions between Cognition, Action and Emotion (LICAE), Paris, France. Invited talk.
 
@@ -176,22 +178,21 @@ author_profile: true
 
 13. **Lacroix, A.** (2020, January 22). Autism in females: From research to clinical practice. 18e Congrès de l’Encéphale. Paris, France. Invited talk.
 
-14. **Lacroix, A.** (2019, June 21). Autistic spectrum disorders in women. Toulouse, France. Invited talk.
+14. **Lacroix, A.** & Cazalis, F. (2019, December 6). How to characterize autistic women in adulthood? XIXèmes Rencontres internationales d'orthophonie. Paris, France. Invited talk.  
 
-15. **Lacroix, A.** (2019, May 7). How predictive processing impacts socio-emotional functioning in autism. Congrès International d’Autisme. Paris, France. Invited talk.
+15. **Lacroix, A., Cumin, J., Mottron, L., Duret, P., & Cazalis, F.** (2019, September 13–15). What can we learn by including autistic people in the scientific process? XIIe Congrès International Autisme Europe. Nice, France.  
 
-16. **Lacroix, A.**, Vermeulen, N., Mermillod, M., Peyrin, C. (2018, December 7). The role of predictive mechanisms in face processing in autism. 13th Conference on Cognitive Neuroscience, Berlin, Germany.
+16. **Rynkiewicz, A., Garnett, M., Attwood, T., Brownlow, C., Baron-Cohen, S., Hadjikhani, N., Lassalle, A., Sarah, O., Pieniążek, A., Kalisz, K., Lacroix, A., & Łucka, I.** (2017). Autism spectrum conditions (ASC) in females – clinical perspectives on diagnosis and new directions in the assessments’ construct. 1st International Conference of Polish Child and Adolescent Psychiatry. Katowice, Poland.  
 
-17. **Lacroix, A.**, Nalborczyk, L., Mermillod, M. (2018, June 12). Emotion recognition in autism: The role of predictive processing. 10th International Conference on Autism Research. Paris, France.
+## POSTERS
 
-### Posters
-1. **Lacroix, A.**, Mermillod, M., Chokron, S. (2024, September 18-21). Predictive brain mechanisms in face processing in autism. 14th International Conference on Autism Research. Brussels, Belgium.
+1. **Lacroix, A., Harquel, S., Kovarski, K., Barbosa, L., Garrido, M., Vercueil, L., Kauffmann, L., Dutheil, F., Gomot, M., Mermillod, M.** (2023). Dissociation between neural and behavioral response in the coarse-to-fine processing of faces in autism. Organisation for Human Brain Mapping. Montreal, Canada.   
+2. **Lacroix, A., Mermillod, M., Harquel, S., Garrido, M., Barbosa, L., Vercueil, L., Aleysson, D., Dutheil, F., Kovarski, K., Gomot, M.** (2023). Sex Differences in Atypical Predictive Processes from Low Spatial Frequencies in ASD: Evidence from Mismatch Responses to Filtered Faces. International Society for Autism Research. Stockholm, Sweden.  
+3. **Lacroix, A., Gomot, M., Logemann, A., Peyrin, C., Dutheil, F., Biro, B., Cserjesi, R., & Mermillod, M.** (2021). Reduced flexibility in autism on an unpredicted emotional flexibility task. International Society for Autism Research. Online.  
 
-2. **Lacroix, A.**, Gomot, M., Mermillod, M., Dutheil, F. (2022, April 5-8). Predictive processing in autism: Gender differences in emotional face recognition. European Conference on Cognitive Neuroscience. Milan, Italy.
+4. **Lacroix, A., Perrier, M., Fombonne, M., Kauffmann, L., Peyrin, L., Vermeulen, N., Dutheil, F., Gomot, M., & Mermillod, M.** (2019). High Spatial Frequencies dominance for visual consciousness in autistic and non-autistic subjects suggested by an attentional blink paradigm. European Society for COgnitive Psychology. Tenerife, Spain.  
+5. **Lacroix, A., Cumin, J., Duret, P., Tsaag-Valren, A., Rynkiewicz, A., Mottron, L., & Cazalis, F.** (2019). Exploration of the French version of the Q-ASC: a tool for investigating the female autistic profile. International Autism Europe Congress. Nice, France.  
 
-3. **Lacroix, A.**, Kovarski, K., Mermillod, M., Vercueil, L. (2021, December 14-17). The role of spatial frequencies in autism: Evidence from face processing. International Society for Autism Research Annual Meeting. Washington, DC, USA.
-
-4. **Lacroix, A.**, Rynkiewicz, A., Mermillod, M., Demily, C. (2021, June 21-24). Understanding female autism: Integrating clinical and research perspectives. 12th International Conference on Autism. Lisbon, Portugal.
 
 ## TEACHING
 
@@ -263,87 +264,106 @@ author_profile: true
 4. **Autism in Females: Dispelling Common Misconceptions**, Aspie Friendly Lecture. Clermont-Ferrand, France.  
 
 **2023**  
-5. **Différences liées au sexe dans la perception visuelle des visages chez les adultes autistes et non autistes: Influence des mécanismes prédictifs?**, Scientific and Participative Mediation "Sex/gender and sensory perception in neurodevelopmental disorders", Paris, France.  
+5. **Sex differences in visual perception of faces in autistic and non-autistic adults: the impact of predictive brain mechanisms?**, Scientific and Participative Mediation "Sex/gender and sensory perception in neurodevelopmental disorders", Paris, France.  
 6. **My Book on Autism in Females**, Talk on my book for "Aspie-Friendly University", Online, France.  
 7. **Women in Science**, Invited for the Roundtable on Women in Science for the Biotechno Forum, Grenoble, France.  
-8. **Autisme au féminin: Dépasser les lieux commun avec l'approche scientifique**, Presentation for the organization "Autisme Genève", Geneva, Switzerland.  
-9. **Autisme: et les filles...?**, Presentation for Primary School Teachers and Special Need Teachers, Paris, France.  
-10. **Les filles et l'autisme: moins nombreuses? moins visibles? Mythes et réalités**, Presentation for the Self-Regulation System Day, Online, France.  
-11. **Autisme au féminin**, One Day of Lecture for the Organization "Autisme Suisse Romande", Lausanne, Switzerland.  
-12. **Autisme au féminin**, Talk for the Autism Awareness Day for the Organization Asperger Lorraine, Metz, France.  
-13. **Femmes autistes: les oubliées**, Workshop "Science Infuse" organized by the Library of Grenoble Alpes University, Grenoble, France.  
+8. **Autism in Females: Going Beyond Common Places with a Scientific Approach**, Presentation for the organization "Autisme Genève", Geneva, Switzerland.  
+9. **Autism: And the Girls...?**, Presentation for Primary School Teachers and Special Needs Teachers, Paris, France.  
+10. **Girls and Autism: Fewer in Number? Less Visible? Myths and Realities**, Presentation for the Self-Regulation System Day, Online, France.  
+11. **Autism in Females**, One Day of Lecture for the Organization "Autisme Suisse Romande", Lausanne, Switzerland.  
+12. **Autism in Females**, Talk for Autism Awareness Day for the Organization Asperger Lorraine, Metz, France.  
+13. **Autistic Females: The Forgotten Ones**, Workshop "Science Infuse" organized by the Library of Grenoble Alpes University, Grenoble, France.  
 
 **2022**  
-14. **L’autisme au féminin**, Oral Presentation for the Organization Parlons d’Autisme, Neuchâtel, Switzerland.  
-15. **Autisme au féminin**, Presentation for the Organization Autisme Bassin Lémanique, Margencel, France.  
-16. **L’autisme au féminin**, One Day Training for the Organization Autisme Suisse Romande, Neuchâtel, Switzerland.  
-17. **Devenir parent quand on est autiste: des challenges supplémentaires?**, Webinar iMind, France.  
+14. **Autism in Females**, Oral Presentation for the Organization Parlons d’Autisme, Neuchâtel, Switzerland.  
+15. **Autism in Females**, Presentation for the Organization Autisme Bassin Lémanique, Margencel, France.  
+16. **Autism in Women**, One Day Training for the Organization Autisme Suisse Romande, Neuchâtel, Switzerland.  
+17. **Becoming a Parent When You Are Autistic: Additional Challenges?**, Webinar iMind, France.  
 
 **2021**  
-18. **La question identitaire chez les femmes autistes adultes**, Webinar for the Groupement National des Centres Ressources Autisme, Grenoble, France.  
-19. **La fatigabilité des personnes autistes**, Round Table for the SpielAct Festival, Genève, Switzerland.  
+18. **The Identity Question in Adult Autistic Women**, Webinar for the Groupement National des Centres Ressources Autisme, Grenoble, France.  
+19. **Fatigue in Autistic People**, Round Table for the SpielAct Festival, Genève, Switzerland.  
 
 **2019**  
-20. **L’autisme au féminin: profil et diagnostic**, Oral Presentation for « Femmes avant tout » at the French National Assembly, Paris, France.  
-21. **État des lieux de la recherche sur les femmes autistes**, Oral Presentation for Autisme 22, Saint Brieuc, France.  
-22. **Filles et femmes autistes, de l’ombre à la lumière**, Oral Presentation at the Haute École de Travail Social et de la Santé, Lausanne, Switzerland.  
+20. **Autism in Females: Profile and Diagnosis**, Oral Presentation for "Femmes avant tout" at the French National Assembly, Paris, France.  
+21. **Current State of Research on Autistic Females**, Oral Presentation for Autisme 22, Saint Brieuc, France.  
+22. **Autistic Girls and Women: From Shadows to Light**, Oral Presentation at the Haute École de Travail Social et de la Santé, Lausanne, Switzerland.  
 
 **2018**  
-23. **L’autisme au féminin durant l’enfance: profil et dépistage**, 2nd Congress of “L’étoile d’Asperger”, Toulouges, France.  
-24. **L’autisme au féminin: quelles spécificités?**, Centre d’Évaluation Savoyard de L’autisme, Chambéry, France.  
-25. **L’autisme au féminin, que dit la recherche?**, Presentation for Autism Geneva, Geneva, Switzerland.  
-26. **L’autisme au féminin: état des connaissances et stratégies d’accompagnement scolaire**, Haute École de Travail Social et de la Santé, Lausanne, Switzerland.  
+23. **Autism in Females During Childhood: Profile and Screening**, 2nd Congress of “L’étoile d’Asperger”, Toulouges, France.  
+24. **Autism in Females: What Specificities?**, Centre d’Évaluation Savoyard de L’autisme, Chambéry, France.  
+25. **Autism in Females: What Does Research Say?**, Presentation for Autism Geneva, Geneva, Switzerland.  
+26. **Autism in Females: State of Knowledge and Educational Support Strategies**, Haute École de Travail Social et de la Santé, Lausanne, Switzerland.   
 
-## BROADCAST INTERVIEWS
 
-**2023-09-10**  
-1. **Autism in Females**, Interview for the French Radio France Bleu Isère.  
+### BROADCAST INTERVIEWS
 
-**2023-09-08**  
-2. **Being a Female and Autistic**, Podcast "Troubles dans le Spectre" realized by the Research Center IMind Lyon. 50 minutes.  
+2023.09.10  
+1. **Autism in females**, Interview for the French radio France Bleu Isère.  
 
-**2023-06-12**  
-3. **Autism in Females: Presentation of How Autism Presents in Females and Why They Are Underdiagnosed**, Presentation of my Book. The Program is the 13/14 on the French National Radio France Inter - 10 minutes.  
+2023.09.08  
+2. **Being a female and autistic**, Podcast "Troubles dans le spectre" realized by the research center IMind Lyon. 50 minutes.  
 
-**2023-05-16**  
-4. **Autism in Females: Presentation of How Autism Manifests in Females, What Are Their Specificities and Presentation of My Book**, Invited for the Broadcast "L'instantané", on the French Regional Channel France 3 Alpes. 10 minutes.  
+2023.06.12  
+3. **Autism in females: presentation of how autism presents in females and why they are underdiagnosed. Presentation of my book.**, The program is the 13/14 on the French national radio France Inter - 10 minutes.  
 
-**2023-05-12**  
-5. **Autism in Females: Sex Ratio, Diagnostic, Research**, Interview for the French Radio Vivre FM. 45 minutes.  
+2023.05.16  
+4. **Autism in females: presentation of how autism manifests in females, what are their specificities and presentation of my book.**, Invited for the broadcast "L'instantané", on the French regional channel France 3 Alpes. 10 minutes.  
 
-**2023-03-23**  
-6. **Autism in Females and Females with Autism**, Podcast for the French Radio "La Voix des Femmes", Paris, France. 40 minutes.  
+2023.05.12  
+5. **Autism in females: sex ratio, diagnostic, research**, Interview for the French radio Vivre FM. 45 minutes.  
 
-**2023-03-20**  
-7. **Women in Science**, Presentation of my Research on Autism in Females, Invited for the Podcast “Les grandes histoires” on the French Radio “France Culture”. 25 minutes.  
+2023.04.01 & 2023.04.02  
+6. **My fMRI research on socio-emotional flexibility in autistic males and females and my book on autism in females**, Journal of France 3 Alpes (French television). 2 minutes.  
 
-**2023-01-22**  
-8. **Autism in Females**, Interview with the French Newspaper Le Dauphiné Libéré. 1 hour.  
+2023.03.03  
+7. **My research on autism in females**, Podcast "Echos des sciences". Subject: "Femmes de tête". 20 minutes.  
 
-**2022-09-12**  
-9. **Autism in Females**, Interview for the French Newspaper Le Monde. 1 hour.  
+2022.10.12  
+8. **Award For Women in Science and my research in visual perception in autism**, Interview for the French radio France Bleu Pays de Savoie for the journal of 8:00. 5 minutes.  
 
-## MEDIA APPEARANCES
+### TEXT INTERVIEWS
 
-**2024-06-20**  
-1. **Autism in Females: State of the Art and Future Perspectives**, Presentation of the Conference at the International Conference on Autism Research, Paris, France.  
-**2024-04-23**  
-2. **The Role of Gender in Autism Diagnosis**, Radio Show on "La santé en direct", Paris, France.  
+2023.08.31  
+1. **"3 questions à Adeline Lacroix. Les femmes autistes sont sous-diagnostiquées."** (Autism in females is under-diagnosed. 3 questions to Adeline Lacroix), Interview by M. Olano for "Sciences Humaines" (national journal).  
 
-**2023-10-22**  
-3. **Focus on Women with Autism: Research and Clinical Advances**, Presentation for the "Forum Autisme" organized by the French Association "Autisme et Société".  
+2023.08.07  
+2. **"Autisme au féminin"** (Autism in females), Interview from E. Bozon-Verduraz for "Le Dauphiné Libéré" (regional journal).  
 
-**2023-10-10**  
-4. **Autism and Gender Differences: A Review of Current Research**, Presentation at the "International Neurodevelopmental Disorders Conference", Toulouse, France.  
+2023.07.07  
+3. **"Pendant longtemps, on a exclu que les femmes pouvaient être autistes"** (For a long time, it was ruled out that women could be autistic.), Interview for "Elle" (national journal).  
 
-**2023-08-30**  
-5. **Understanding Autism in Women: An Overview**, Talk at the "Festival de la Science" organized by the French Ministry of Education, Paris, France.  
+2023.06.19  
+4. **"Adeline Lacroix, son combat face à l'autisme au féminin"** (Adeline Lacroix, her fight for autistic women) Portrait: Ils font bouger votre région (Portrait: personalities who boost your region), Interview by S. Falcoz for "Le Dauphiné Libéré" (regional journal).  
 
-**2023-05-25**  
-6. **Autism in Females: An Overview of Recent Findings**, Presentation for the “International Conference on Autism Spectrum Disorder”, Geneva, Switzerland.  
+2023.03.31  
+5. **"Qui sont les aspergirls?"** (Who are the aspergirls?), Interview by Christelle Gilquin for "Femmes d'aujourd'hui" (Belgium national journal).  
 
-**2022-11-12**  
-7. **Women with Autism: Challenges and Advances**, Presentation for the “National Forum on Autism”, Paris, France.  
+2022.10.20  
+6. **"Une chercheuse originaire du chablais récompensée pour son travail sur l'autisme"** (A researcher from the Chablais region wins an award for her work on autism). Interview on my research and my award., Interview by M. Dumur for "Le Messager" (local French journal).  
 
-  
+2022.10.14  
+7. **"Une chercheuse récompensée pour ses travaux sur l'autisme"** (A researcher wins an award for her work on autism). Interview on my research and my award., Interview by S. Falcoz for "Le Dauphiné Libéré" (French regional journal).  
+
+2021.04.02  
+8. **"Les communes s'illuminent en bleu pour la journée de l'autisme"** (Communes light up in blue for Autism Day). Interview on my journey as an autistic woman doing research on autism., Interview by B. Dorat for "Le Dauphiné Libéré" (regional French journal).  
+
+2019.03.31  
+9. **"En neurosciences, les choses progressent"** (In neuroscience, things are improving). How neurosciences benefit autism research., Interview by Isabelle Calendre for "Le Dauphiné Libéré" (regional French journal).
+
+**OTHER SCIENTIFIC ACTIVITIES**  
+
+- Member of the work team “Participatory research school” – organization of the first participatory research school in Autism and Neurodevelopmental Disorder in 2025 with the Scientific Interest Group for Autism and Neurodevelopmental Disorders.  
+- Contribution to the organization of conferences with the national Scientific Interest Group for Autism and Neurodevelopmental Disorders.  
+- Committee Member of the research focus group for the inter-ministerial delegation for the national autism strategy (2023 – 2027).  
+- Member of the scientific committee for the 2nd national conference on autism. November 19 – 20, 2021. Bern, Switzerland.  
+- Reviewer for *Visual Cognition*, *Neuropsychiatric Disease and Treatment*, *Autism*, *Brain Research*, *Journal of Autism and Developmental Disorder*.  
+- Labtimes: Talks on various methodological topics based on articles (e.g., Drift Diffusion Model; Data Transformation; Random Effect Structure in Mixed Models; Open Science) + Labtimes organization.  
+
+**SKILLS**  
+
+- **Programming languages**: R (Intermediate), Matlab (Beginner), Overleaf (Beginner).  
+- **Neuroimaging**: Brainstorm (Beginner to Intermediate), SPM (Beginner).  
+- **Languages**: French (Native), English (Professional).
+
 
