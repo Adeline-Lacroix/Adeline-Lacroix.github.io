@@ -44,17 +44,17 @@ author_profile: true
 ### Present Position
 
 - **2024-present**: Post-Doctoral Researcher- Centre for Addiction and Mental Health, Toronto, Canada  
-  **Supervisor**: Dr Meng-Chuan Lai  
+  **Supervisor**: Dr Meng-Chuan Lai.  
   **Research project**: Investigation of the neurofunctional and behavioral profiles of autistic females using normative modeling.
   
 ### Past position
 
 - **2023-2024**: Post-Doctoral Researcher - LPNC , Grenoble Alpes University/CNRS, France  
-  **Supervisors**: Pr Monica Baciu and Dr Marcela Perrone-Bertolotti
+  **Supervisors**: Pr Monica Baciu and Dr Marcela Perrone-Bertolotti.  
   **Research project**: Identifying the factors influencing scholar and social participation in autistic children using structural equation modeling.
 
 - **2023**: Research Engineer - iMind, Le Vinatier Hospital, Lyon, France  
-  **Supervisor**: Pr Caroline Demily  
+  **Supervisor**: Pr Caroline Demily.  
   **Research project**: Parenthood in autism. Building a survey in a participatory research framework, investigating representations of health, education, and justice professionals on parenthood in autism, compared to those of autistic parents.
 
 ## RESEARCH PROJECTS

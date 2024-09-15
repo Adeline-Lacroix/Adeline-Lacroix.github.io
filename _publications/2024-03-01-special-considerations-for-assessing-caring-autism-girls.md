@@ -5,7 +5,6 @@ permalink: /publication/2024-03-01-special-considerations-for-assessing-caring-a
 excerpt: 'This review highlights emerging areas of research regrading autism in females, including, diagnostic tools, physical and mental health, and the unique aspects of the lives of autistic females.'
 date: 2024/03/01
 venue: 'Current Opinion in Psychiatry'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://journals.lww.com/co-psychiatry/abstract/9900/special_considerations_for_assessing_and_caring.96.aspx'
 citation: 'Rynkiewics, A., Zheng, S., Lacroix, A. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
