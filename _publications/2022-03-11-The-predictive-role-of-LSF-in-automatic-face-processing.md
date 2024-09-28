@@ -9,11 +9,11 @@ paperurl: 'https://www.frontiersin.org/article/10.3389/fnhum.2022.838454'
 citation: 'Lacroix, A., Harquel, S., Mermillod, M., et al. (2022). "The predictive role of low spatial frequencies in automatic face processing." <i>Frontiers in Human Neuroscience</i>.'
 ---
 
-Purpose of the paper:  
+## Purpose of the paper:  
 
 The purpose of this study was to investigate the predictive role of low spatial frequencies (LSF) versus high spatial frequencies (HSF) during automatic face processing. Based on the coarse-to-fine model of visual processing, where LSF provide early coarse information to generate predictions and HSF convey fine details, we aimed to determine whether LSF play a crucial role in the predictive mechanisms underlying automatic face processing.
 
-Key findings include:  
+## Key findings include:  
 
 Both LSF and HSF deviants elicited a mismatch response (visual mismatch negativity or vMMN), indicating that both spatial frequencies contribute to automatic face processing.
 However, in line with the hypothesis, LSF deviants generated significantly reduced prediction errors (smaller mismatch responses) compared to HSF deviants, particularly at later stages of processing.

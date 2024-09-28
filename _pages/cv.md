@@ -59,7 +59,7 @@ author_profile: true
 
 ## RESEARCH PROJECTS
 
-- **2024-present**: **Inform-AFH** – Inform Autistic Female Heterogeneity : Investigation of the neurofunctional and behavioral profiles of autistic females using normative modeling. 
+- **2024-present**: **INFORMHA-f* – Inform Autistic Female Heterogeneity : Investigation of the neurofunctional and behavioral profiles of autistic females using normative modeling. 
   **Role**: Project co-leader with Dr Meng-Chuan Lai (Center for Addiction and Mental Health, Toronto, Canada)
   **Tasks**: Project development and grant writing, data analysis, writing
 
