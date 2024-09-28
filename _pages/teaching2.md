@@ -8,7 +8,6 @@ redirect_from:
   - "/nmp.html"
 ---
 
-# Teaching
 
 One key aspect of being a researcher is to transmit, share, and educate. This applies not only to research data but also to the scientific approach itself, which is essential in a world where beliefs sometimes tend to overshadow facts.  
 
