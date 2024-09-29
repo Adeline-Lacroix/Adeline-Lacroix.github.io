@@ -1,10 +1,10 @@
 ---
-title: "PREDEMAUT"
+title: "PREDEMAUT - 2018-2022"
 collection: talks
 type: "Talk"
-permalink: /talks/001_Predemaut
-venue: "LPNC, CNRS/Grenoble Alpes Univesity"
-date: 2018-2022
+permalink: /talks/2018-10-01-Predemaut
+venue: "LPNC, CNRS/Grenoble Alpes University"
+date: 2018-10-01
 location: "France"
 ---
 
