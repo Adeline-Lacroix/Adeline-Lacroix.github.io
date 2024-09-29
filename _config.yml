@@ -12,7 +12,7 @@ title                    : "Adeline Lacroix"
 title_separator          : "-"
 name                     : &name "Adeline Lacroix"
 description              : &description "Post Doctoral Fellow"
-url                      : https://Adeline-Lacroix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://adeline-lacroix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Adeline-Lacroix/Adeline-Lacroix.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Toronto, Canada"
   employer         : "CAMH"
   uri              : # URL
-  #email            : "adeline.lacroix[at]camh.ca"
+  email            : "adeline.lacroix[at]camh.ca"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
