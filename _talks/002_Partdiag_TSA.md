@@ -1,9 +1,8 @@
 ---
-title: "PARTDIAG-TSA
+title: "PARTDIAG-TSA - 2022-2024"
 collection: talks
 permalink: /talks/002_Partdiag_TSA
 venue: "LPNC, CNRS/Grenoble Alpes University and the RHEOP Grenoble"
-date: 2022-2024
 location: "France"
 ---
 
