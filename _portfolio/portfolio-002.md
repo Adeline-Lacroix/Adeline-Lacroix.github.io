@@ -1,6 +1,6 @@
 ---
 title: "Chapter - Participatory Research"
-excerpt: "<div style='display: flex; align-items: center;'><p style='flex: 1; margin: 0; padding: 0;'> I was delighted to be invited to contribute to the new edition of this French book by writing a chapter on participatory research in autism. In this chapter, I trace the historical development of participatory research and how it has evolved in the field of autism. I also highlight a French examples, though still too few, and discuss the challenges that remain to be addressed. </p><img src='/images/chapter.jpg' style='max-width: 50%; height: auto; margin-left: 10px;'></div>"
+excerpt: "<div style='display: flex; align-items: center;'><p style='flex: 1; margin: 0; padding: 0;'> I was delighted to be invited to contribute to the new edition of this French book by writing a chapter on participatory research in autism. In this chapter, I trace the historical development of participatory research and how it has evolved in the field of autism. I also highlight a French examples, though still too few, and discuss the challenges that remain to be addressed. </p><img src='/images/chapter.jpg' style='width: 200px; height: auto; margin-left: 10px;'></div>"
 collection: portfolio
 ---
 
