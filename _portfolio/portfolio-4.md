@@ -1,7 +1,12 @@
 ---
-title: "Chapter - Participatory Research"
-excerpt: "I was delighted to be invited to contribute to the new edition of this French book by writing a chapter on participatory research in autism. In this chapter, I trace the historical development of participatory research and how it has evolved in the field of autism. I also highlight a French examples, though still too few, and discuss the challenges that remain to be addressed. 1<br/><img src='/images/chapter.jpg'>"
+title: "TV Interview - France 3 Alpes - L'instantané"
+excerpt: "I am very thankful to have been invited by Aurélie Massait to present my book and the specificities of autistic women on the show L'Instantané on France 3 Alpes. It is a regional TV channel."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<p>This is an item in your portfolio. It can have images, text, or videos. Below is the YouTube video:</p>
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=GkKcEyctN40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
