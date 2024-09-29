@@ -3,20 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching2/    
-    
-  - title: "Books"
-    url: /portfolio/
-        
-  - title: "Ongoing Projects"
+
+  - title: "Projects"
     url: /year-archive/
     
-  - title: "Public Engagement"
-    url: /markdown/
+  - title: "Public Engagment"
+    url: /portfolio/   
 
   - title: "CV"
     url: /cv/
