@@ -1,20 +1,29 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
-tags:
-  - cool posts
-  - category1
-  - category2
+layout: archive
+title: "FLEXPREAUT"
+permalink: /projects/004_Flexpreaut
+excerpt : "A participatory study exploring the needs of autistic parents and professionals' views on autistic parenthood."
+date: 2023-09-01
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
+This project is carried out at the LPNC, in collaboration with the Grebnoble Alpes University Hospital. 
+It involves Pr Monica Baciu, Pr Martial Mermillod, Pr Clément Dondé, Dr Emilie Cousin and Dr Adeline Lacroix. 
+The initial part of the project alos involved a collaboration with researchers of Eötvös Loránd University : Dr Alexander Logemann and Dr Renata Cserjesi. 
+In addition, several master's trainee collaborated on this project. 
 
-Headings are cool
-======
+The brain continuously anticipates incoming sensory information based on prior experiences and observed patterns. 
+These predictive mechanisms might also play a critical role in cognitive flexibility, allowing individuals to adapt their tasks or strategies as situations change. 
+In autistic individuals, challenges in adjusting predictions has been suggested, and cognitive flexibility difficulties are observed. 
+However, the link between both is unclear and the factors influencing their difficulties are not well determined.
 
-You can have many headings
-======
+The first part of this project, called FLEXEMAUT, aimed to explore predictive processes in both autistic and non autistic adults during high-level cognitive flexibility tasks involving social and non-social stimuli. 
+We examined the differences in how these two groups engage in predictive processes at a behavioral level and also explored sex differences.
 
-Aren't headings cool?
-------
+The first study is sumarized [here](../_publications/2021-10-Flexibility-in-autism-during-unpredictable-shifts.md) and have been presented in the following publication:
+- [Lacroix, A., Dutheil, F., Logemann, A., et al. (2022). "Flexibility in autism during unpredictable shifts of socio-emotional stimuli." Autism. 26(7), 1681-1697.](https://hal.science/hal-03563100)
+
+The second study is in press.
+
+The third study is under review.
+
+In addition to behavioral data, we are now running new experiments using fMRI-BOLD analysis in order to compare brain activity and connectivity, during thes tasks.
