@@ -5,7 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% for project in site.projects %}
-  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-  <p>{{ project.excerpt }}</p>
+
+{% include base_path %}
+
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
 {% endfor %}
