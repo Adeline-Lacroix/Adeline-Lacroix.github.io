@@ -1,7 +1,8 @@
 ---
 title: "PREDEMAUT"
-permalink: /projects/001_Predemaut
+permalink: /projects/2018-10-01_Predemaut
 excerpt : "My thesis project - The emotional predictive brain in autism and sex differences"
+date: 2018-10-01
 ---
 
 This project was carried out at the LPNC (CRNS/Grenoble Alpes University, FRANCE) between 2018 and 2022 and was the main focus of my thesis. 
