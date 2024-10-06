@@ -6,6 +6,7 @@ excerpt : "A participatory and interdisciplinary project aimed at making urban e
 date: 2023-05-01
 ---
 
+This project is lead by Dr Marie Pieron, from the Integrative Neuroscience and Cognition Center, Paris (FRANCE). 
 
 The study addresses the sensory particularities associated with Autism Spectrum Conditions (ASC), that can make urban environment particularly difficult to handle.. 
 Indeed, urban environments provide a multi-sensory experience, heavily reliant on visual input, making it essential to understand how autistic individuals perceive and interact with these settings. 
