@@ -2,7 +2,7 @@
 layout: archive
 title: "FLEXPREAUT"
 permalink: /projects/004_Flexpreaut
-excerpt : "A participatory study exploring the needs of autistic parents and professionals' views on autistic parenthood."
+excerpt : "A study investigating predictive processes in autistic and non autistic adults during high-level cognitive flexibility tasks, focusing on behavioral differences, factors influencing cognitive flexibility challenges in autism and sex differences."
 date: 2023-09-01
 ---
 

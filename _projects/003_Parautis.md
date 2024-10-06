@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Parautis"
+title: "PARAUTIS"
 permalink: /projects/003_Parautis
 excerpt : "A participatory study exploring the needs of autistic parents and professionals' views on autistic parenthood."
 date: 2023-01-02

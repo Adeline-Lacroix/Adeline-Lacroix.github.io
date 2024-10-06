@@ -1,20 +1,17 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
-tags:
-  - cool posts
-  - category1
-  - category2
+layout: archive
+title: "AUTISENCITE"
+permalink: /projects/005_Autisencité
+excerpt : "A participatory and interdisciplinary project aimed at making urban environments more accessible and friendly for autistic individuals."
+date: 2023-05-01
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Headings are cool
-======
+The study addresses the sensory particularities associated with Autism Spectrum Conditions (ASC), that can make urban environment particularly difficult to handle.. 
+Indeed, urban environments provide a multi-sensory experience, heavily reliant on visual input, making it essential to understand how autistic individuals perceive and interact with these settings. 
+Although existing studies indicate difficulties faced by autistic individuals in urban environments, there is a lack of ecological neuroscience research on this topic.
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
+To explore these sensory differences, the project will employ "sensory walks" to evaluate the perceptions of autistic individuals in urban settings. 
+This interdisciplinary project brings together scientists, individuals affected by autism, architects, urban planners, and local authorities to ensure a comprehensive understanding of sensory needs. 
+A participatory approach is taken to involve autistic adults and close relatives in the research, aiming to bridge the gap between scientific research and community needs. 
+The study's objectives include gathering sensory experiences, enhancing the autonomy of autistic individuals, and informing urban planners about the sensory requirements of this population.

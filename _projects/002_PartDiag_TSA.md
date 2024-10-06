@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PartDiag-TSA"
+title: "PARTDIAG-TSA"
 permalink: /projects/002_PartDiag_TSA
 excerpt : "Investigation of the diagnostic journey and school participation of autistic children in the French county of Isere and Savoie"
 date: 2023-10-02
