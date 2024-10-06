@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "PREDEMAUT"
 permalink: /projects/2018-10-01_Predemaut
 excerpt : "My thesis project - The emotional predictive brain in autism and sex differences"
