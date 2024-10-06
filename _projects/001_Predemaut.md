@@ -2,11 +2,11 @@
 layout: archive
 title: "PREDEMAUT"
 permalink: /projects/001_Predemaut
-excerpt : "My thesis project - The emotional predictive brain in autism and sex differences"
+excerpt : "My thesis project - The emotional predictive brain in autism and sex differences."
 date: 2018-10-01
 ---
 
-This project was carried out at the LPNC (CRNS/Grenoble Alpes University, FRANCE) between 2018 and 2022 and was the main focus of my thesis. 
+This project was carried out at the [LPNC](https://lpnc.univ-grenoble-alpes.fr/fr) (CRNS/Grenoble Alpes University, FRANCE) between 2018 and 2022 and was the main focus of my thesis. 
 
 Predictive processes have been highlighted in visual processing, suggesting that the brain first rapidly extracts global information from visual stimuli, which are derived from low spatial frequencies and enable predictions based on past experiences. These predictions are then used for rapid recognition. This process is well-established in the processing of natural scenes, but it may also play a role in face processing. Autistic individuals often face challenges with faces, although autisic females sometimes show a more similar pattern to non-autistic individuals. Additionally, autistic people exhibit specific visual processing preferences, with a natural inclination towards details.
 
