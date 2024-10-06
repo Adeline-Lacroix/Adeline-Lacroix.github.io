@@ -1,13 +1,10 @@
 ---
-title: "PREDEMAUT - 2018-2022"
-collection: talks
-type: "Talk"
+title: "PREDEMAUT"
 permalink: /talks/2018-10-01-Predemaut
-venue: "LPNC, CNRS/Grenoble Alpes University"
-date: 2018-10-01
-location: "France"
+excert : "My thesis project - The emotional predictive brain in autism and sex differences""
 ---
 
+This project was carried out at the LPNC (CRNS/Grenoble Alpes University, FRANCE) between 2018 and 2022 and was the main focus of my thesis. 
 
 Predictive processes have been highlighted in visual processing, suggesting that the brain first rapidly extracts global information from visual stimuli, which are derived from low spatial frequencies and enable predictions based on past experiences. These predictions are then used for rapid recognition. This process is well-established in the processing of natural scenes, but it may also play a role in face processing. Autistic individuals often face challenges with faces, although autisic females sometimes show a more similar pattern to non-autistic individuals. Additionally, autistic people exhibit specific visual processing preferences, with a natural inclination towards details.
 
