@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "PREDEMAUT"
-permalink: /projects/2018-10-01_Predemaut
+permalink: /projects/001_Predemaut
 excerpt : "My thesis project - The emotional predictive brain in autism and sex differences"
 date: 2018-10-01
 ---
