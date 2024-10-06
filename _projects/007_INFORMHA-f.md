@@ -1,17 +1,15 @@
 ---
 layout: archive
-title: "AUTISENCITE"
+title: "INFORMHA-f"
 permalink: /projects/005_Autisencité
-excerpt : "A participatory and interdisciplinary project aimed at making urban environments more accessible and friendly for autistic individuals."
-date: 2023-05-01
+excerpt : "Inform heterogeneity in autistic females"
+date: 2024-09-01
 ---
 
+This project is carried out at the Center for Addiction and Mental Health, supervised by Dr. Meng-Chuan Lai and involving several collaborators. 
+It is sponsored by the CIHR fellowship that I received for this psot-doc project.
 
-The study addresses the sensory particularities associated with Autism Spectrum Conditions (ASC), that can make urban environment particularly difficult to handle.. 
-Indeed, urban environments provide a multi-sensory experience, heavily reliant on visual input, making it essential to understand how autistic individuals perceive and interact with these settings. 
-Although existing studies indicate difficulties faced by autistic individuals in urban environments, there is a lack of ecological neuroscience research on this topic.
-
-To explore these sensory differences, the project will employ "sensory walks" to evaluate the perceptions of autistic individuals in urban settings. 
-This interdisciplinary project brings together scientists, individuals affected by autism, architects, urban planners, and local authorities to ensure a comprehensive understanding of sensory needs. 
-A participatory approach is taken to involve autistic adults and close relatives in the research, aiming to bridge the gap between scientific research and community needs. 
-The study's objectives include gathering sensory experiences, enhancing the autonomy of autistic individuals, and informing urban planners about the sensory requirements of this population.
+Autism is an heterogeneous spectrum which needs a deeper comprehension to achieve personalized understanding. 
+However, research efforts in this direction so far does not investigate the specific profiles of autistic females, who are often under-detected and thus under-studied, resulting in missed diagnoses and reduced access to support. 
+Leveraging clinical and neuroimaging data from large databases, we will use statistical modeling and machine learning to better understand the heterogeneity within autistic females and to investigate how diagnosed autistic females and females with subthreshold symptoms fit within the autism spectrum. 
+The aim is to reveal potential quantitative and qualitative differences between autistic males and females and to identify clinical patterns on which clinicians should focus to better diagnose and support autistic females. 
