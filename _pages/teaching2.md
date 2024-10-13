@@ -9,17 +9,26 @@ redirect_from:
 ---
 
 
-One key aspect of being a researcher is to transmit, share, and educate. This applies not only to research data but also to the scientific approach itself, which is essential in a world where beliefs sometimes tend to overshadow facts.  
+One key aspect of being a researcher is to transmit, share, and educate. 
+This applies not only to research data but also to the scientific approach itself, which is essential in a world where beliefs sometimes tend to overshadow facts.  
 
-In my work, this primarily involves supervising master's students during their internships. I strive to share my knowledge on autism, statistics and open science when possible, but I also learn a great deal from them.  
+In my work, this primarily involves supervising master's students during their internships. 
+I strive to share my knowledge on autism, statistics and open science when possible, but I also learn a great deal from them.  
 
-My outreach extends beyond academia through books, public lectures, and media appearances, where I am fortunate to be invited, allowing me to reach a broader audience and convey research-based messages.  
+My outreach extends beyond academia through <a href="/books/">books</a>, public lectures, and <a href= "/portfolio/">media invitation</a>, where I am fortunate to be invited, allowing me to reach a broader audience and convey research-based messages.  
 
-Finally, teaching students is another important part of this mission. Although teaching was once my primary profession—having first worked as an elementary school teacher and later as a specialized teacher in SEGPA (i.e., for student with learning difficulties)— I now wish for it to be a secondary role. While teaching is incredibly fulfilling, it is also quite demanding, particularly for someone like me. Nonetheless, I am happy to have taught and to continue teaching a few select courses that are especially meaningful to me.
+Finally, teaching students is another important part of this mission. Although teaching was once my primary profession—having first worked as an elementary school teacher and later as a specialized teacher in SEGPA (i.e., for student with learning difficulties)— I now wish for it to be a secondary role. 
+While teaching is incredibly fulfilling, it is also quite demanding, particularly for someone like me. 
+Nonetheless, I am happy to have taught and to continue teaching a few select courses that are especially meaningful to me. 
+I now primarily dedicate my teaching activities to lectures on autism for universities (as detailed below), but also for organizations (see my <a href="/CV/">CV</a>), in France and Switzerland.
+
+## University of Geneva
+
+- 2024 : Autism in females - Certificate of Advanced Studies Autism: Diagnosis, Intervention, and Research - Lecture (3h)
 
 ## Grenoble Alpes University, France
 
-- 2021-2023: Autism: research advances - Master in child neuropsychology
+- 2021-2023: Autism: research advances - Master in child neuropsychology - Lecture (1h yearly)
 
 - 2019-2022 : Differential psychology and psychometry - Lecture (4h) and practical work (84 h) - Bachelor in psychology 
 
