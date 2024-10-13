@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching2/    
+  - title: "Books"
+    url: /books/    
 
   - title: "Research Projects"
     url: /projects/
+
+  - title: "Teaching"
+    url: /teaching2/    
     
   - title: "Public Engagement"
     url: /portfolio/   
