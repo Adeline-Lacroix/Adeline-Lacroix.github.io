@@ -22,7 +22,7 @@ While teaching is incredibly fulfilling, it is also quite demanding, particularl
 Nonetheless, I am happy to have taught and to continue teaching a few select courses that are especially meaningful to me. 
 I now primarily dedicate my teaching activities to lectures on autism for universities (as detailed below), but also for organizations (see my <a href="/CV/">CV</a>), in France and Switzerland.
 
-## University of Geneva
+## University of Geneva, Switzerland
 
 - 2024 : Autism in females - Certificate of Advanced Studies Autism: Diagnosis, Intervention, and Research - Lecture (3h)
 
