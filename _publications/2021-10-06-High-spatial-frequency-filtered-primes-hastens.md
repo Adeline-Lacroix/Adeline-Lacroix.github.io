@@ -16,7 +16,7 @@ Using an emotional Stroop task with spatially filtered primes (LSF vs. High Spat
 
 
 
-<img src= '/images/FigureStroop.jpg' alt="Figure Stroop" style="display: block; margin: auto; style="width:50%;">
+<img src= "./images/book1.jpg" alt="Figure Stroop" style="display: block; margin: auto; style="width:50%;">
 
 <p style="text-align: center;"><em>Figure 1: Figure from the associated paper. (A) Example of a stimulus filtered in Low Spatial Frequencies (LSF), unfiltered, and filtered in High Spatial Frequencies (HSF). (B) EMotional stroop task: Example of a trial with LSF filtered prime and incongruent word stimuli..</em></p>
 
