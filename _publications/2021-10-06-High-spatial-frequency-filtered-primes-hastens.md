@@ -15,7 +15,7 @@ The aim of this study was to investigate whether autistic individuals show alter
 Using an emotional Stroop task with spatially filtered primes (LSF vs. High Spatial Frequencies, HSF), we analyzed the performance of autistic and non-autistic adults using both bayesian linear mied models and diffusion models.
 
 
-<img src="/images/FigureStroop.jpg" alt="Figure Stroop" style="display: block; margin: auto; width: 50%;">
+<img src="/images/FigureStroop.jpg" alt="Figure Stroop" style="display: block; margin: auto; width: 60%;">
 
 <p style="text-align: center;"><em>Figure 1: Figure from the associated paper. (A) Example of a stimulus filtered in Low Spatial Frequencies (LSF), unfiltered, and filtered in High Spatial Frequencies (HSF). (B) Emotional stroop task: Example of a trial with LSF filtered prime and incongruent word stimuli.</em></p>
 
