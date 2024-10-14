@@ -9,6 +9,9 @@ paperurl: 'https://www.frontiersin.org/article/10.3389/fnhum.2022.838454'
 citation: 'Lacroix, A., Harquel, S., Mermillod, M., et al. (2022). "The predictive role of low spatial frequencies in automatic face processing." <i>Frontiers in Human Neuroscience</i>.'
 ---
 
+This study is part of the [PREDEMAUT](/projects/001_Predemaut) project.  
+
+
 ## Purpose of the paper:  
 
 The purpose of this study was to investigate the predictive role of low spatial frequencies (LSF) versus high spatial frequencies (HSF) during automatic face processing. 

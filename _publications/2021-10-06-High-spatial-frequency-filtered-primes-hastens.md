@@ -9,6 +9,9 @@ paperurl: 'https://hal.science/hal-03821408/document'
 citation: 'Lacroix, A., Nalborczyk, L., et al. (2021). "High spatial frequency filtered primes hasten happy faces categorization in autistic adults." <i>Brain and Cognition</i>. 155, 105811.'
 ---
 
+This study is part of the [PREDEMAUT](/projects/001_Predemaut) project.  
+
+
 ## Purpose of the paper:
 
 The aim of this study was to investigate whether autistic individuals show alterations in predictive processes during emotional face recognition, particularly in relation to Low Spatial Frequencies (LSF) processing. 

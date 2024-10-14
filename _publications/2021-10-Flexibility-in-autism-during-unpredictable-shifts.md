@@ -9,7 +9,7 @@ paperurl: 'https://hal.science/hal-03563100'
 citation: 'Lacroix, A., Dutheil, F., Logemann, A., et al. (2022). "Flexibility in autism during unpredictable shifts of socio-emotional stimuli." <i>Autism</i>. 26(7), 1681-1697.'
 ---
 
-This study is associated with the [FLEXPREAUT](/projects/004_Flexpreaut) project, on which you can find more information [here](/projects/004_Flexpreaut).
+This study is part of the [FLEXPREAUT](/projects/004_Flexpreaut) project.
 
 ## Purpose of the paper:   
 

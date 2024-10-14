@@ -9,6 +9,8 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/aur.3209'
 citation: 'Lacroix, A., Garrido, M., Kovarski, K., Barbosa, L., Harquel, S., et al. (2024). "Reduced spatial frequency differentiation and sex-related specificities in fearful face detection in autism." <i>Autism Research</i>.'
 ---
 
+This study is part of the [PREDEMAUT](/projects/001_Predemaut) project.
+
 ## Purpose of the paper:
 
 The purpose of this study was to examine how predictive processes in face processing, specifically the role of spatial frequencies, differ in autistic individuals compared to non-autistic (NA) individuals. 

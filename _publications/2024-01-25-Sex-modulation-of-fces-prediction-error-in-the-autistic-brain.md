@@ -9,6 +9,9 @@ paperurl: 'https://www.nature.com/articles/s42003-024-05807-4'
 citation: 'Lacroix A, Harquel S, Mermillod M, et al. Sex modulation of faces prediction error in the autistic brain. <i>Communications Biology</i>. 7(1):1-12. doi:10.1038/s42003-024-05807-4'
 ---
 
+This study is part of the [PREDEMAUT](/projects/001_Predemaut) project.  
+
+
 ## Purpose of the paper:  
 
 The purpose of this study was to investigate predictive brian specificities in autism and whether differences in socio-cognitive abilities between autistic males and females could be partly explained by distinct neurophysiological functioning. 
