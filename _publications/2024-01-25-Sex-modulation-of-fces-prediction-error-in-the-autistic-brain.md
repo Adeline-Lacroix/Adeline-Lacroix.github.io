@@ -6,7 +6,7 @@ excerpt: 'This study examines neurophysiological sex differences in autism, focu
 date: 2024/01/25
 venue: 'Communications Biology'
 paperurl: 'https://www.nature.com/articles/s42003-024-05807-4'
-citation: 'Lacroix A, Harquel S, Mermillod M, et al. Sex modulation of faces prediction error in the autistic brain. <i>Communication Biology</i>. 7(1):1-12. doi:10.1038/s42003-024-05807-4'
+citation: 'Lacroix A, Harquel S, Mermillod M, et al. Sex modulation of faces prediction error in the autistic brain. <i>Communications Biology</i>. 7(1):1-12. doi:10.1038/s42003-024-05807-4'
 ---
 
 ## Purpose of the paper:  
