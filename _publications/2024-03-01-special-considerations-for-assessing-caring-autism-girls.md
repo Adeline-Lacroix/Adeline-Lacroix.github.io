@@ -6,8 +6,7 @@ excerpt: 'This review highlights emerging areas of research regrading autism in 
 date: 2024/03/01
 venue: 'Current Opinion in Psychiatry'
 paperurl: 'https://journals.lww.com/co-psychiatry/abstract/9900/special_considerations_for_assessing_and_caring.96.aspx'
-citation: 'Rynkiewicz, A., Zheng; S., and Lacroix, A.. 2024. Special Considerations for Assessing and Caring for Autism in Girls and Women. Current Opinion in Psychiatry. 2024. 10.1097/YCO.0000000000000913. doi: 10.1097/YCO.0000000000000913.'
-'
+citation: 'Rynkiewicz, A., Zheng; S., and Lacroix, A.. (2024). "Special Considerations for Assessing and Caring for Autism in Girls and Women." <i>Current Opinion in Psychiatry.</i> 10.1097/YCO.0000000000000913. doi: 10.1097/YCO.0000000000000913.'
 ---
 
 ## Purpose of the review:
