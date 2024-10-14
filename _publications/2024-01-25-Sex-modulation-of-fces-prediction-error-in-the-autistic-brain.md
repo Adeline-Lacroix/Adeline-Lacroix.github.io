@@ -5,7 +5,7 @@ permalink: /publication/2024-01-25-Sex-modulation-of-fces-prediction-error-in-th
 excerpt: 'This study examines neurophysiological sex differences in autism, focusing on early stages of face processing. Using an event-related potentials (ERP) paradigm, the research reveals that autistic females show a distinct neurophysiological profile, positioned between autistic males and non-autistic females. These findings suggest that autistic females may have different neural processing patterns, potentially contributing to underdiagnosis. The study calls for further exploration of sex-specific compensatory mechanisms and the concept of camouflaging in autism.'
 date: 2024/01/25
 venue: 'Communications Biology'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s42003-024-05807-4)'
+paperurl: 'https://www.nature.com/articles/s42003-024-05807-4'
 citation: 'Lacroix A, Harquel S, Mermillod M, et al. Sex modulation of faces prediction error in the autistic brain. Commun Biol. 2024;7(1):1-12. doi:10.1038/s42003-024-05807-4'
 ---
 
