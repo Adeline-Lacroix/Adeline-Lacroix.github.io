@@ -9,10 +9,10 @@ paperurl: 'https://hal.science/hal-03821408/document'
 citation: 'Lacroix, A., Nalborczyk, L., et al. (2021). "High spatial frequency filtered primes hasten happy faces categorization in autistic adults." <i>Brain and Cognition</i>. 155, 105811.'
 ---
 
-**Purpose of the paper and findings:**. 
+## Purpose of the paper:
 The aim of this study was to investigate whether autistic individuals show alterations in predictive processes during emotional face recognition, particularly in relation to Low Spatial Frequencies (LSF) processing. Using an emotional Stroop task with spatially filtered primes (LSF vs. High Spatial Frequencies, HSF), the researchers analyzed the performance of autistic and non-autistic adults.
 
-Key findings include:  
+## Key findings include:  
 - Contrary to the hypothesis, HSF primes led to faster face categorization than LSF primes in both groups, challenging the assumption that LSF drives predictive processes for fast recognition.
 - Autistic participants exhibited a stronger advantage for HSF over LSF primes when processing happy faces, while non-autistic participants showed a stronger advantage for angry faces.
 - Drift diffusion modeling confirmed the HSF advantage and revealed a longer non-decision time (e.g., encoding) in autistic individuals, suggesting specific low-level processing differences in autism.  

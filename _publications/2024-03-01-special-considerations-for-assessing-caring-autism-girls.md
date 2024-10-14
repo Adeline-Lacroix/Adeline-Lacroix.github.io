@@ -9,10 +9,10 @@ paperurl: 'https://journals.lww.com/co-psychiatry/abstract/9900/special_consider
 citation: 'Rynkiewics, A., Zheng, S., Lacroix, A. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-**Purpose of the review**
+## Purpose of the review:
 As the specificities of autistic women are increasingly recognized, this review aims to highlight emerging areas of research. These areas primarily focus on measurement bias of diagnostic tools, the physical and mental health of autistic women, and the unique aspects of the lives of autistic women, both personally and professionally across all life stages.
 
-Key findings include:  
+## Key findings include:  
 - Conventional diagnostic tools struggle to capture the specificities of autism in females, but more sensitive instruments like the GQ-ASC (Girls’ Questionnaire for Autism Spectrum Conditions), later also referred to as Q-ASC (Questionnaire for Autism Spectrum Conditions) in the scientific literature, show better performances.
 - Autistic women face particular challenges, including an increased risk of physical and mental health problems throughout their lives as women (puberty, motherhood, menopause). 
 - Autistic women also encounter specific difficulties in their employment that require greater consideration.  
