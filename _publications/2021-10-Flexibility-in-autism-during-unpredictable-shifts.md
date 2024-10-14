@@ -9,6 +9,8 @@ paperurl: 'https://hal.science/hal-03563100'
 citation: 'Lacroix, A., Dutheil, F., Logemann, A., et al. (2022). "Flexibility in autism during unpredictable shifts of socio-emotional stimuli." <i>Autism</i>. 26(7), 1681-1697.'
 ---
 
+This study is associated with the [FLEXPREAUT](../_projects/004_Flexpreaut.md) project, on which you can find more information [here](../_projects/004_Flexpreaut.md).
+
 ## Purpose of the paper:   
 
 The purpose of this study was to examine flexibility difficulties in autistic individuals using tasks that reflect real-life challenges. By comparing performance on an unpredictable Emotional Shifting Task and a predictable Task Switching Task using character stimuli. We aimed to explore the role of predictability, stimulus type, and sex in flexibility difficulties associated with autism.  

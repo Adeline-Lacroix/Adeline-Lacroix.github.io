@@ -6,10 +6,12 @@ excerpt : "A study investigating predictive processes in autistic and non autist
 date: 2023-09-01
 ---
 
+<p style="font-size: 0.9em; font-style: italic;">
 This project is carried out at the LPNC, in collaboration with the Grebnoble Alpes University Hospital. 
 It involves Pr Monica Baciu, Pr Martial Mermillod, Pr Clément Dondé, Dr Emilie Cousin and Dr Adeline Lacroix. 
 The initial part of the project alos involved a collaboration with researchers of Eötvös Loránd University : Dr Alexander Logemann and Dr Renata Cserjesi. 
 In addition, several master's trainee collaborated on this project. 
+</p>
 
 The brain continuously anticipates incoming sensory information based on prior experiences and observed patterns. 
 These predictive mechanisms might also play a critical role in cognitive flexibility, allowing individuals to adapt their tasks or strategies as situations change. 
@@ -26,4 +28,5 @@ The second study is in press.
 
 The third study is under review.
 
-In addition to behavioral data, we are now running new experiments using fMRI-BOLD analysis in order to compare brain activity and connectivity, during thes tasks.
+In addition to behavioral data, we are now running new experiments using fMRI-BOLD analysis in order to compare brain activity and connectivity, during these tasks.
+I**f you are an autistic adults with a professional diagnosis (including the ADOS or ADI) or a non- autistic adults leaving close to Grenoble and wanting to participate in an fMRI study, please, feel free to reach out!**
