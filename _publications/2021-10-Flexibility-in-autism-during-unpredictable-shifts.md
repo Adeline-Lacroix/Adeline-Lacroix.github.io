@@ -15,7 +15,8 @@ The purpose of this study was to examine flexibility difficulties in autistic in
 
 ## Key findings include:  
 
-Autistic individuals exhibited a larger switch cost (i.e., slower response times in shift versus non-shift conditions) on the Emotional Shifting Task compared to typically developing adults, indicating greater difficulty with unpredictable shifts of socio-emotional stimuli.
-However, there were no significant differences between the groups on the more explicit and predictable Task Switching Task, suggesting that flexibility difficulties in autism are influenced by the nature of the task.
-Sex differences were also observed: females responded faster than males in the Emotional Shifting Task. Additionally, in the Task Switching Task, typically developing males responded faster than females, while in the autistic group, females showed an advantage over males.
+- Autistic individuals exhibited a larger switch cost (i.e., slower response times in shift versus non-shift conditions) on the Emotional Shifting Task compared to typically developing adults, indicating greater difficulty with unpredictable shifts of socio-emotional stimuli.
+- However, there were no significant differences between the groups on the more explicit and predictable Task Switching Task, suggesting that flexibility difficulties in autism are influenced by the nature of the task.
+- Sex differences were also observed: females responded faster than males in the Emotional Shifting Task. Additionally, in the Task Switching Task, typically developing males responded faster than females, while in the autistic group, females showed an advantage over males.  
+
 These findings suggest that flexibility difficulties in autism are modulated by factors such as task predictability, the explicitness of shift rules, stimulus complexity, and sex. Understanding these factors is crucial for developing more targeted interventions to support autistic individuals in real-life situations.

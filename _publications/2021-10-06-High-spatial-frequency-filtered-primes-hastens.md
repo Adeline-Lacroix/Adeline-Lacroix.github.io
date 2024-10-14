@@ -10,9 +10,17 @@ citation: 'Lacroix, A., Nalborczyk, L., et al. (2021). "High spatial frequency f
 ---
 
 ## Purpose of the paper:
-The aim of this study was to investigate whether autistic individuals show alterations in predictive processes during emotional face recognition, particularly in relation to Low Spatial Frequencies (LSF) processing. Using an emotional Stroop task with spatially filtered primes (LSF vs. High Spatial Frequencies, HSF), the researchers analyzed the performance of autistic and non-autistic adults.
+
+The aim of this study was to investigate whether autistic individuals show alterations in predictive processes during emotional face recognition, particularly in relation to Low Spatial Frequencies (LSF) processing. 
+Using an emotional Stroop task with spatially filtered primes (LSF vs. High Spatial Frequencies, HSF), we analyzed the performance of autistic and non-autistic adults using both bayesian linear mied models and diffusion models.
+
+<img src="./images/FigureStroop.jpg" alt="Légende de l'image" style="width:50%;">
+
+<p style="text-align: center;"><em>Figure 1: Figure from the associated paper. (A) Example of a stimulus filtered in Low Spatial Frequencies (LSF), unfiltered, and filtered in High Spatial Frequencies (HSF). (B) EMotional stroop task: Example of a trial with LSF filtered prime and incongruent word stimuli..</em></p>
+
 
 ## Key findings include:  
+
 - Contrary to the hypothesis, HSF primes led to faster face categorization than LSF primes in both groups, challenging the assumption that LSF drives predictive processes for fast recognition.
 - Autistic participants exhibited a stronger advantage for HSF over LSF primes when processing happy faces, while non-autistic participants showed a stronger advantage for angry faces.
 - Drift diffusion modeling confirmed the HSF advantage and revealed a longer non-decision time (e.g., encoding) in autistic individuals, suggesting specific low-level processing differences in autism.  
