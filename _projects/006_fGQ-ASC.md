@@ -2,7 +2,7 @@
 layout: archive
 title: "fGQ-ASC"
 permalink: /projects/006_fGQ-ASC
-excerpt : "Validation of the French version of the Girl Questionnaire for Autism Spectrum Conditions. CURRENTLY RECRUITING - Please, feel free to contact !"
+excerpt : "Validation of the French version of the Girl Questionnaire for Autism Spectrum Conditions."
 date: 2024-07-01
 ---
 
