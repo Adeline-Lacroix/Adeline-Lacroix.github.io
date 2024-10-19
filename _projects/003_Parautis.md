@@ -7,7 +7,7 @@ date: 2023-01-02
 ---
 
 <p style="font-size: 0.9em; font-style: italic;">
-This study is carried out by the [IMind centre](https://centre-imind.fr/?lang=en), under the supervision of Pr Caroline Demily.
+This study is carried out by the <a href="https://centre-imind.fr/?lang=en">IMind centre</a>, under the supervision of Pr Caroline Demily.
 </p>
 
 While research on autistic adults has grown, few studies focus on their experiences as parents. 

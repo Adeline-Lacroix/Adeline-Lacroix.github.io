@@ -7,8 +7,8 @@ date: 2018-10-01
 ---
 
 <p style="font-size: 0.9em; font-style: italic;">
-This project was carried out at the [LPNC](https://lpnc.univ-grenoble-alpes.fr/fr) (CRNS/Grenoble Alpes University, FRANCE) between 2018 and 2022 and was the main focus of my thesis. 
-It was conducted under the supervision of Pr. Martial Mermillod (LPNC, Grenoble, France) and Dr. Marie Gomot ([iBrain](https://ibrain.univ-tours.fr), Tours, France).
+This project was carried out at the <a href= https://lpnc.univ-grenoble-alpes.fr/fr)>LPNC</a> (CRNS/Grenoble Alpes University, FRANCE) between 2018 and 2022 and was the main focus of my thesis. 
+It was conducted under the supervision of Pr. Martial Mermillod (LPNC, Grenoble, France) and Dr. Marie Gomot (<a href= https://ibrain.univ-tours.fr>iBrain>/a>), Tours, France).
 </p>
 
 Predictive processes have been highlighted in visual processing, suggesting that the brain first rapidly extracts global information from visual stimuli, which are derived from low spatial frequencies and enable predictions based on past experiences. These predictions are then used for rapid recognition. 

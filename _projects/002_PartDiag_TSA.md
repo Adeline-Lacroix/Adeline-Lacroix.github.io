@@ -7,8 +7,8 @@ date: 2023-10-02
 ---
 
 <p style="font-size: 0.9em; font-style: italic;">
-This project was led by Dr. Anne Ego and financially supported by the [Fondation de France](https://www.fondationdefrance.org/fr/). 
-This project is the result of a collaboration between between the [RHEOP](https://rheop.univ-grenoble-alpes.fr) (Child Disability Registry and Perinatal Observatory) and two laboratories in Grenoble: the [TIMC](https://www.timc.fr/themas) and the [LPNC](https://lpnc.univ-grenoble-alpes.fr/fr).
+This project was led by Dr. Anne Ego and financially supported by the <a href="https://www.fondationdefrance.org/fr/">Fondation de France</a>. 
+This project is the result of a collaboration between between the <a href="https://rheop.univ-grenoble-alpes.fr">RHEOP</a> (Child Disability Registry and Perinatal Observatory) and two laboratories in Grenoble: the [TIMC](https://www.timc.fr/themas) and the [LPNC](https://lpnc.univ-grenoble-alpes.fr/fr).
 </p>
 
 The study addressed the heterogeneous diagnostic pathways of children with autism spectrum conditions (ASC), their limited social participation, and the limited literature on the subject. 

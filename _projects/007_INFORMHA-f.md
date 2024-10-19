@@ -8,7 +8,7 @@ date: 2024-09-01
 
 <p style="font-size: 0.9em; font-style: italic;">
 This project is carried out at the Center for Addiction and Mental Health, supervised by Dr. Meng-Chuan Lai and involving several collaborators. 
-It is sponsored by the [Canadian Institute of Health Research](https://cihr-irsc.gc.ca/e/193.html) fellowship that I received for this post-doc project.
+It is sponsored by the <a href="https://cihr-irsc.gc.ca/e/193.html">Canadian Institute of Health Research</a> fellowship that I received for this post-doc project.
 </p>
 
 Autism is an heterogeneous spectrum which needs a deeper comprehension to achieve personalized understanding. 
