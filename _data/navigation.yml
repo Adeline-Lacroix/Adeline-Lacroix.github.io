@@ -7,7 +7,7 @@ main:
     url: /books/    
 
   - title: "Research Projects"
-    url: /projects2/
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching2/    
