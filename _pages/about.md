@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Biography"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 Hello there! I’m Adeline, an enthusiastic researcher focused on understanding **sex and gender differences** as well as the fascinating **heterogeneity** of the autism spectrum.  
 
