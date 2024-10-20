@@ -7,7 +7,7 @@ date: 2023-05-01
 ---
 
 <p style="font-size: 0.9em; font-style: italic;">
-This project is lead by Dr. Marie Pieron, from the <a href="https://incc-paris.fr/">Integrative Neuroscience and Cognition Center</a>), Paris (FRANCE). 
+This project is lead by Dr. Marie Pieron, from the <a href="https://incc-paris.fr/">Integrative Neuroscience and Cognition Center</a>, Paris (FRANCE). 
 </p>
 
 The study addresses the sensory particularities associated with Autism Spectrum Conditions (ASC), that can make urban environment particularly difficult to handle.
