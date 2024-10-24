@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Sex and Gender Differences in Autism
+
 My research focused on autism, with a particular interest in understanding and characterizing sex and gender differences. 
 Historically, autistic females have been underdiagnosed and under-researched, resulting in challenges in accessing appropriate care. 
 
