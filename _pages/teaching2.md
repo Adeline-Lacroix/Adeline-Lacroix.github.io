@@ -15,7 +15,7 @@ This applies not only to research data but also to the scientific approach itsel
 In my work, this primarily involves supervising master's students during their internships. 
 I strive to share my knowledge on autism, statistics and open science when possible, but I also learn a great deal from them.  
 
-My outreach extends beyond academia through <a href="/books/">books</a>, public lectures, and <a href= "/portfolio/">media invitation</a>, where I am fortunate to be invited, allowing me to reach a broader audience and convey research-based messages.  
+My outreach extends beyond academia through <a href="/books/">books</a>, public lectures, and <a href= "/portfolio/">media</a>, where I am fortunate to be invited, allowing me to reach a broader audience and convey research-based messages.  
 
 Finally, teaching students is another important part of this mission. Although teaching was once my primary profession—having first worked as an elementary school teacher and later as a specialized teacher in SEGPA (i.e., for student with learning difficulties)— I now wish for it to be a secondary role. 
 While teaching is incredibly fulfilling, it is also quite demanding, particularly for someone like me. 
@@ -36,7 +36,7 @@ I now primarily dedicate my teaching activities to lectures on autism for univer
 
 - 2018- 2021 : Cognitive psychology - Bachelor in psychology - practical work (56 h)
 
-- 2018-2020 Research methodology - Bachelor in psychology - practicial work (56h)
+- 2018-2020 : Research methodology - Bachelor in psychology - practicial work (56h)
 
 ## Lyon University, France
 
