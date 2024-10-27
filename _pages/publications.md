@@ -32,7 +32,7 @@ This study examines neurophysiological sex differences in autism, focusing on ea
 Using a Mismatch Negativity paradigm in EEG, the research reveals that autistic females show a distinct neurophysiological profile, positioned between autistic males and non-autistic females. 
 The findings suggest that autistic females may have different neural processing patterns and calls for further exploration of sex-specific compensatory mechanisms in autism.  
 
-<span style="font-size:11pt; font-style:italic;">Recommended citation: Lacroix A, Harquel S, Mermillod M, et al. Sex modulation of faces prediction error in the autistic brain. Communications Biology. 7(1):1-12. doi:10.1038/s42003-024-05807-4</span>
+<span style="font-size:11pt; font-style:italic;">Recommended citation: 3.	Lacroix, A., Harquel, S., Mermillod, M., Garrido, M., Barbosa, L., Vercueil, L., Aleysson, D., Dutheil, F., Kovarski, K., & Gomot, M. (2024) Sex modulation of faces prediction error in the autistic brain. Communications Biology. 7(1):1-12. doi:10.1038/s42003-024-05807-4</span>
 [Download paper](https://www.nature.com/articles/s42003-024-05807-4)
 
 
@@ -55,7 +55,7 @@ Additionally, sex differences emerged.
 The results highlight the importance of factors like task predictability, explicitness, and sex in understanding flexibility challenges in autism.  
 
 
-<span style="font-size:11pt; font-style:italic;">Recommended citation: Lacroix, A., Garrido, M., Kovarski, K., Barbosa, L., Harquel, S., et al. (2024). "Reduced spatial frequency differentiation and sex-related specificities in fearful face detection in autism." Autism Research.</span>
+<span style="font-size:11pt; font-style:italic;">Recommended citation: 7.	Lacroix, A., Dutheil, F., Logemann, A., Cserjesi, R., Peyrin, C., Biro, B., Gomot, M., & Mermillod, M. (2022). "Flexibility in autism during unpredictable shifts of socio-emotional stimuli." <i>Autism</i>. 26(7), 1681-1697.</span>
 [Download paper](https://hal.science/hal-03563100)
 
 
@@ -67,7 +67,7 @@ The study compared the effects of LSF and High Spatial Frequencies (HSF) primes 
 Surprisingly, both groups processed faces faster with HSF primes, with autistic participants showing unique processing patterns for happy versus angry faces. 
 The findings suggest low-level processing differences in autism compared to non-autistic idnividuals without corroborating specificities related to LSF predictive processing.  
 
-<span style="font-size:11pt; font-style:italic;">Recommended citation: 9.	Lacroix, A., Nalborczyk, L., Dutheil, F., Kovarski, K., Chokron, S., Garrido, M., Gomot, M., & Mermillod, M. (2021). "High spatial frequency filtered primes hasten happy faces categorization in autistic adults." <i>Brain and Cognition</i>. 155, 105811.</span>
+<span style="font-size:11pt; font-style:italic;">Recommended citation: Lacroix, A., Nalborczyk, L., Dutheil, F., Kovarski, K., Chokron, S., Garrido, M., Gomot, M., & Mermillod, M. (2021). "High spatial frequency filtered primes hasten happy faces categorization in autistic adults." <i>Brain and Cognition</i>. 155, 105811.</span>
 [Download paper](https://hal.science/hal-03821408/document)
 
 
