@@ -2,7 +2,7 @@
 title: "Special considerations for assessing and caring for autism in girls and women."
 collection: publications
 permalink: /publication/2024-03-01-special-considerations-for-assessing-caring-autism-girls
-excerpt: 'This review highlights emerging areas of research regrading autism in females, including, diagnostic tools, physical and mental health, and the unique aspects of the lives of autistic females.'
+excerpt: 'This review highlights emerging areas of research regarding autism in females, including, diagnostic tools, physical and mental health, and the unique aspects of the lives of autistic females.'
 date: 2024/03/01
 venue: 'Current Opinion in Psychiatry'
 paperurl: 'https://journals.lww.com/co-psychiatry/abstract/9900/special_considerations_for_assessing_and_caring.96.aspx'

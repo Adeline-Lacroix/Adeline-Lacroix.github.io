@@ -13,7 +13,7 @@ This study is carried out by the <a href="https://centre-imind.fr/?lang=en">IMin
 While research on autistic adults has grown, few studies focus on their experiences as parents. 
 Existing research indicates that autistic parents, particularly women, find parenting fulfilling, though they often face challenges in their daily lives and in communicating with healthcare professionals.
 In addition, they often fear judgment or social service intervention due to their diagnosis. 
-The study aims to compare the perspectives of various professionals (healthcare, education, judicial) and autistic parents on parenting, to address the training needs of professionals and clarify the specific needs of autistic parents.
+The study aims to compare the perspectives of various professionals (healthcare, education, judicial) and autistic parents on parenting when you are autistic, to address the training needs of professionals and clarify the specific needs of autistic parents.
 
 Importantly, the goal of the study was determined by autistic adults. 
 Indeed, this study is participatory, co-constructed with autistic individuals in an egalitarian manner. 

@@ -2,7 +2,7 @@
 title: "Sex modulation of faces prediction error in the autistic brain"
 collection: publications
 permalink: /publication/2024-01-25-Sex-modulation-of-fces-prediction-error-in-the-autistic-brain
-excerpt: 'This study examines neurophysiological sex differences in autism, focusing on early stages of face processing. Using an event-related potentials (ERP) paradigm, the research reveals that autistic females show a distinct neurophysiological profile, positioned between autistic males and non-autistic females. These findings suggest that autistic females may have different neural processing patterns, potentially contributing to underdiagnosis. The study calls for further exploration of sex-specific compensatory mechanisms and the concept of camouflaging in autism.'
+excerpt: 'This study examines neurophysiological sex differences in autism, focusing on early stages of face processing. Using an event-related potentials (ERP) paradigm, the research reveals that autistic females show a distinct neurophysiological profile, positioned between autistic males and non-autistic females. These findings suggest that autistic females may have different neural processing patterns and calls for further exploration of sex-specific compensatory mechanisms in autism.'
 date: 2024/01/25
 venue: 'Communications Biology'
 paperurl: 'https://www.nature.com/articles/s42003-024-05807-4'
@@ -14,7 +14,7 @@ This study is part of the [PREDEMAUT](/projects/001_Predemaut) project.
 
 ## Purpose of the paper:  
 
-The purpose of this study was to investigate predictive brian specificities in autism and whether differences in socio-cognitive abilities between autistic males and females could be partly explained by distinct neurophysiological functioning. 
+The purpose of this study was to investigate predictive brain specificities in autism and whether differences in socio-cognitive abilities between autistic males and females could be partly explained by distinct neurophysiological functioning. 
 To do so, we used a spatially filtered faces oddball paradigm.
 
 ## Key findings include:  
