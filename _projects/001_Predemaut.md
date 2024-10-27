@@ -13,7 +13,7 @@ It was conducted under the supervision of Pr. Martial Mermillod (LPNC, Grenoble,
 
 Predictive processes have been highlighted in visual processing, suggesting that the brain first rapidly extracts global information from visual stimuli, which are derived from low spatial frequencies and enable predictions based on past experiences. These predictions are then used for rapid recognition. 
 This process is well-established in the processing of natural scenes, but it may also play a role in face processing. 
-Autistic individuals often face challenges with faces, although autistic females sometimes show a more similar pattern to non-autistic individuals (for example, in attention orientation to faces). 
+Autistic individuals often face challenges with faces, although autistic females sometimes show a more similar pattern to non-autistic individuals (for example, in attention orientation to faces) than autistic males. 
 Additionally, autistic people exhibit specific visual processing preferences, with a natural inclination towards details.
 
 In this series of studies, combining behavioral experiments and EEG, we investigated whether atypical face processing in autism could be linked to differences in predictive processes involving spatial frequency processing and whether there were sex-related differences. 

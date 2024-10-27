@@ -2,7 +2,7 @@
 title: "Flexibility in autism during unpredictable shifts of socio-emotional stimuli: Investigation of group and sex differences"
 collection: publications
 permalink: /publication/2022-01-01-flexibility-autism-socio-emotional-stimuli
-excerpt: 'This study explores flexibility difficulties in autism using two tasks: one involving real-life-like unpredictable shifts of socio-emotional stimuli, and another with predictable shifts of simple stimuli. The findings reveal that autistic individuals experience greater difficulty with unpredictable shifts in complex emotional tasks, but not with predictable shifts of character stimuli. Additionally, sex differences emerged, with autistic females outperforming autistic males in certain conditions. These results highlight the importance of factors like task predictability, explicitness, and sex in understanding flexibility challenges in autism.'
+excerpt: 'This study explores flexibility difficulties in autism using two tasks: one involving real-life-like unpredictable shifts of socio-emotional stimuli, and another with predictable shifts of simple stimuli. The findings reveal that autistic individuals experience greater difficulty with unpredictable shifts in complex emotional tasks, but not with predictable shifts of character stimuli. Additionally, sex differences emerged. These results highlight the importance of factors like task predictability, explicitness, and sex in understanding flexibility challenges in autism.'
 date: 2022/10/01
 venue: 'Autism'
 paperurl: 'https://hal.science/hal-03563100'

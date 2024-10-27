@@ -2,7 +2,7 @@
 title: "Reduced spatial frequency differentiation and sex-related specificities in fearful face detection in autism: insights from EEG and the predictive brain model"
 collection: publications
 permalink: /publication/2024-01-01-spatial-frequency-differentiation-autism
-excerpt: 'This study investigates predictive processes in face processing in autistic individuals, focusing on how spatial frequencies influence the detection of fearful faces. The results reveal that autistic individuals, regardless of sex, show behavioral differences in fear detection compared to non-autistic individuals. However, the study highlights significant sex differences, suggesting that autistic females may engage different neural mechanisms than males during face processing.'
+excerpt: 'This study investigates predictive processes in face processing in autistic individuals, focusing on how spatial frequencies influence the detection of fearful faces. The results reveal that autistic individuals, regardless of sex, show behavioral and neurophysiological differences in fear detection compared to non-autistic individuals. The study also highlights significant sex differences, suggesting that autistic females may engage different neural mechanisms than males during face processing.'
 date: 2024/08/02
 venue: 'Autism Research'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/aur.3209'

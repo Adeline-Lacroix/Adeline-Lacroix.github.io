@@ -2,7 +2,7 @@
 title: "High spatial frequency filtered primes hasten happy faces categorization in autistic adults"
 collection: publications
 permalink: /publication/2021-01-01-high-spatial-frequency-happy-faces-autism
-excerpt: 'This study explores the role of spatial frequencies in emotional face recognition in autism. While Low Spatial Frequencies (LSF) typically generate predictions for fast face recognition, autistic individuals may show impairments in this process. The study compared the effects of LSF and High Spatial Frequencies (HSF) primes on the emotional Stroop task in autistic and non-autistic adults. Surprisingly, both groups processed faces faster with HSF primes, with autistic participants showing unique processing patterns for happy versus angry faces. These findings suggest low-level processing differences in autism without corroborating LSF predictive impairments.'
+excerpt: 'This study explores the role of spatial frequencies in emotional face recognition in autism. While Low Spatial Frequencies (LSF) could help in generating predictions for fast face recognition, autistic individuals may have atypical spatial frequency processing. The study compared the effects of LSF and High Spatial Frequencies (HSF) primes on the emotional Stroop task in autistic and non-autistic adults. Surprisingly, both groups processed faces faster with HSF primes, with autistic participants showing unique processing patterns for happy versus angry faces. These findings suggest low-level processing differences in autism without corroborating specificities related to LSF predictive processing.'
 date: 2021/10/06
 venue: 'Brain and Cognition'
 paperurl: 'https://hal.science/hal-03821408/document'

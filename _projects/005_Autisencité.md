@@ -15,6 +15,6 @@ Indeed, urban environments provide a multi-sensory experience, heavily reliant o
 Although existing studies indicate difficulties faced by autistic individuals in urban environments, there is a lack of ecological neuroscience research on this topic.
 
 To explore these sensory differences, the project will employ "sensory walks" to evaluate the perceptions of autistic individuals in urban settings. 
-This interdisciplinary project brings together scientists, individuals affected by autism, architects, urban planners, and local authorities to ensure a comprehensive understanding of sensory needs. 
+This interdisciplinary project brings together scientists, autistic people and families, architects, urban planners, and local authorities to ensure a comprehensive understanding of sensory needs. 
 A participatory approach is taken to involve autistic adults and close relatives in the research, aiming to bridge the gap between scientific research and community needs. 
 The study's objectives include gathering sensory experiences, enhancing the autonomy of autistic individuals, and informing urban planners about the sensory requirements of this population.
