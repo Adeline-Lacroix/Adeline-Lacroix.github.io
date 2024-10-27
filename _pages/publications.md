@@ -17,7 +17,6 @@ The study also highlights significant sex differences, suggesting that autistic 
 [Download paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aur.3209)
 
 
-
 ## Special considerations for assessing and caring for autism in girls and women.
 
 This review highlights emerging areas of research regarding autism in females, including, diagnostic tools, physical and mental health, and the unique aspects of the lives of autistic females.
