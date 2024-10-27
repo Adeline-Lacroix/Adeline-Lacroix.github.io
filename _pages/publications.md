@@ -32,7 +32,7 @@ This study examines neurophysiological sex differences in autism, focusing on ea
 Using a Mismatch Negativity paradigm in EEG, the research reveals that autistic females show a distinct neurophysiological profile, positioned between autistic males and non-autistic females. 
 The findings suggest that autistic females may have different neural processing patterns and calls for further exploration of sex-specific compensatory mechanisms in autism.  
 
-<span style="font-size:11pt; font-style:italic;">Recommended citation: 3.	Lacroix, A., Harquel, S., Mermillod, M., Garrido, M., Barbosa, L., Vercueil, L., Aleysson, D., Dutheil, F., Kovarski, K., & Gomot, M. (2024) Sex modulation of faces prediction error in the autistic brain. Communications Biology. 7(1):1-12. doi:10.1038/s42003-024-05807-4</span>
+<span style="font-size:11pt; font-style:italic;">Recommended citation: Lacroix, A., Harquel, S., Mermillod, M., Garrido, M., Barbosa, L., Vercueil, L., Aleysson, D., Dutheil, F., Kovarski, K., & Gomot, M. (2024) Sex modulation of faces prediction error in the autistic brain. Communications Biology. 7(1):1-12. doi:10.1038/s42003-024-05807-4</span>
 [Download paper](https://www.nature.com/articles/s42003-024-05807-4)
 
 
