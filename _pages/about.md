@@ -15,13 +15,13 @@ I’m grateful to have developed collaborations with many talented scientists an
 
 I’m a strong advocate for **participatory research** in autism because I believe that the intersection of diverse perspectives, especially those of individuals directly involved in the issues at hand, is the best way to advance our understanding of complex topics. 
 I’m currently working to foster this type of research in France. 
-Related to that, I am particularly interested in developing practices that help us include individuals who are minimally verbal or have intellectual disabilities, and I am dedicated to making research more accessible to a wide audience through both writing and oral presentations.  
+Related to that, I am particularly interested in developing practices that help us include individuals who are minimally verbal or have intellectual disabilities. I am also dedicated to making research more accessible to a wide audience through writing, oral presentations and media.  
 
-I am particularly sensitive to **open science** practices, from pre-registration to sharing code, data, and materials, because I find it essential to conduct rigorous and reproducible science. 
+In addition, I am particularly sensitive to **open science** practices, from pre-registration to sharing code, data, and materials, because I find it essential to conduct rigorous and reproducible science. 
 This belief has also sparked my interest in **methodology** and statistics. 
 
 Outside of my research, I advocate for autism as a member of the [PAARI](https://www.paari.fr) organization. 
-I also enjoy sewing, am an animal lover and mom to a horse and a dog, and deeply care about environmental issues.  
+I also enjoy sewing, am an animal lover (mom to a horse and a dog), and deeply care about environmental issues.  
 
 I should also mention that I had quite a hectic journey before my current career. 
 I first studied engineering, then arts, and then teaching. 
