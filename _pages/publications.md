@@ -14,7 +14,7 @@ Using data from 256 adults (124 autistic), we found that social contexts made fl
 In addition, autistic women showed patterns that differed from autistic men in non-social contexts, resembling those of non-autistic individuals. 
 However, in social contexts, their profile aligned more closely with autistic men and differed from non-autistic individuals. T
 
-<span style="font-size:10pt; font-style:italic;">Recommended citation: Lacroix, A., Bennetot-Deveria, Y., Baciu, M., Dutheil, F., Magnon, V., Gomot, M., & Mermillod, M. (2024). "Understanding cognitive flexibility in emotional evaluation in autistic males and females: The social context matters." Molecular Autism, 15(1), 49. </span>. 
+<span style="font-size:10pt; font-style:italic;">Recommended citation: Lacroix, A., Bennetot-Deveria, Y., Baciu, M., Dutheil, F., Magnon, V., Gomot, M., & Mermillod, M. (2024). "Understanding cognitive flexibility in emotional evaluation in autistic males and females: The social context matters." Molecular Autism, 15(1), 49.</span>. 
 [Download paper](https://rdcu.be/d04Cq)
 
 
