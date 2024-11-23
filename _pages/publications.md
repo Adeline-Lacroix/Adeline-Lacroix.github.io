@@ -7,13 +7,24 @@ author_profile: true
 
 Here is a selection of my publications. You can also find a more exhaustive list of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> or on my <a href="/CV/">CV</a>.  
 
+## Understanding cognitive flexibility in emotional evaluation in autistic males and females: The social context matters.
+
+This study examines flexibility in autistic individuals by exploring the influence of the social nature of a situation and sex differences.  
+Using data from 256 adults (124 autistic), we found that social contexts made flexible response adaptation more challenging, especially for autistic individuals.  
+In addition, autistic women showed patterns that differed from autistic men in non-social contexts, resembling those of non-autistic individuals. 
+However, in social contexts, their profile aligned more closely with autistic men and differed from non-autistic individuals. T
+
+<span style="font-size:10pt; font-style:italic;">Recommended citation: Lacroix, A., Bennetot-Deveria, Y., Baciu, M., Dutheil, F., Magnon, V., Gomot, M., & Mermillod, M. (2024). "Understanding cognitive flexibility in emotional evaluation in autistic males and females: The social context matters." Molecular Autism, 15(1), 49. </span>. 
+[Download paper](https://rdcu.be/d04Cq)
+
+
 ## Reduced spatial frequency differentiation and sex-related specificities in fearful face detection in autism: insights from EEG and the predictive brain model
 
 This study investigates predictive processes in face processing in autistic individuals, focusing on how spatial frequencies influence the detection of fearful faces. 
 The results reveal that autistic individuals, regardless of sex, show behavioral and neurophysiological differences in fear detection compared to non-autistic individuals. 
 The study also highlights significant sex differences, suggesting that autistic females may engage different neural mechanisms than males during face processing.  
 
-<span style="font-size:10pt; font-style:italic;">Recommended citation: Lacroix, A., Garrido, M., Kovarski, K., Barbosa, L., Harquel, S., et al. (2024). "Reduced spatial frequency differentiation and sex-related specificities in fearful face detection in autism." Autism Research </span>. 
+<span style="font-size:10pt; font-style:italic;">Recommended citation: Lacroix, A., Garrido, M., Kovarski, K., Barbosa, L., Harquel, S., et al. (2024). "Reduced spatial frequency differentiation and sex-related specificities in fearful face detection in autism." Autism Research. 17 (9), 1778-1795</span>. 
 [Download paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aur.3209)
 
 
