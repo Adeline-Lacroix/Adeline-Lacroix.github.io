@@ -7,9 +7,10 @@ date: 2023-10-02
 ---
 
 <p style="font-size: 0.9em; font-style: italic;">
-This project was led by Dr. Anne Ego and financially supported by the <a href="https://www.fondationdefrance.org/fr/">Fondation de France</a>. 
-This project is the result of a collaboration between between the <a href="https://rheop.univ-grenoble-alpes.fr">RHEOP</a> (Child Disability Registry and Perinatal Observatory) and two laboratories in Grenoble: the <a href="https://www.timc.fr/themas">TIMC</a> and the <a href="https://lpnc.univ-grenoble-alpes.fr/fr">LPNC</a>.
-</p>
+This project is the result of a collaboration between the <a href="https://rheop.univ-grenoble-alpes.fr">RHEOP</a> (Child Disability Registry and Perinatal Observatory) and two laboratories in Grenoble: the <a href="https://www.timc.fr/themas">TIMC</a> and the <a href="https://lpnc.univ-grenoble-alpes.fr/fr">LPNC</a>.
+</p>. At the LPNC, it involves <a href="https://www.perrone-bertolotti.fr">Dr Marcela Perrone-Bertolotti </a>, <a href="https://cerca.labo.univ-poitiers.fr/en/membres/morgane-burnel-2/">Dr Morgane Burnel</a> and Pr Monica Baciu <a href="https://lpnc.univ-grenoble-alpes.fr/fr/monica-baciu">Pr Monica Baciu</a>. 
+From the RHEOP side, it involves <a href="https://www.timc.fr/anne-ego">Dr. Anne Ego</a>, <a href="https://www.researchgate.net/profile/Pauline-Occelli-2">Dr Pauline Ocelli</a> and Marie David.
+This project has been financially supported by the <a href="https://www.fondationdefrance.org/fr/">Fondation de France</a>. 
 
 The study addressed the heterogeneous diagnostic pathways of autistric children, their limited social participation, and the limited literature on the subject. 
 The RHEOP can investigate a comprehensive sample of autistic children by identifying all disabilities in children at age 7 across two French regions (Savoie and Isere).
