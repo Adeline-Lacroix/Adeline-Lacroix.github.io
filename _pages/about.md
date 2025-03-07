@@ -9,8 +9,8 @@ redirect_from:
 
 Hello there! I’m Adeline, an enthusiastic researcher focused on understanding **sex and gender differences** as well as the fascinating **heterogeneity** of the **autism spectrum**.  
 
-I completed my PhD and a first postdoctoral fellowship at the [Laboratory of Psychology and NeuroCognition (LPNC)](https://lpnc.univ-grenoble-alpes.fr/en) in Grenoble (France), where I delved into behavioral and EEG experiments. 
-Now, I’m diving into new adventures as a postdoctoral fellow at the Campbell Family Mental Health Research Institute at [CAMH](https://www.camh.ca) in Toronto (Canada). 
+I completed my PhD, under the supervision of Pr Martial Mermillod and Dr Marie Gomot, and a first postdoctoral fellowship, under the supervision of Pr Monica Baciu and Dr Marcela Perrone-Bertolotti, at the [Laboratory of Psychology and NeuroCognition (LPNC)](https://lpnc.univ-grenoble-alpes.fr/en) in Grenoble (France), where I delved into behavioral and EEG experiments. 
+Now, I’m diving into new adventures as a postdoctoral fellow under the supervision of Dr Meng-Chuan Lai at the Campbell Family Mental Health Research Institute at [CAMH](https://www.camh.ca) in Toronto (Canada). 
 I’m grateful to have developed collaborations with many talented scientists and to be involved in some truly exciting projects.  
 
 I’m a strong advocate for **participatory research** in autism because I believe that the intersection of diverse perspectives, especially those of individuals directly involved in the issues at hand, is the best way to advance our understanding of complex topics. 
