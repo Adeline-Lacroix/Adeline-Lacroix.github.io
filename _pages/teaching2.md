@@ -13,7 +13,7 @@ One key aspect of being a researcher is to transmit, share, and educate.
 This applies not only to research data but also to the scientific approach itself, which is essential in a world where beliefs sometimes tend to overshadow facts.  
 
 In my work, this primarily involves supervising master's students during their internships. 
-I strive to share my knowledge on autism, statistics and open science when possible, but I also learn a great deal from them.  
+I strive to share my knowledge on autism, statistics and open science when possible, but I also learn a lot from my students.  
 
 My outreach extends beyond academia through <a href="/books/">books</a>, public lectures, and <a href= "/portfolio/">media</a>, where I am fortunate to be invited, allowing me to reach a broader audience and convey research-based messages.  
 
@@ -21,6 +21,15 @@ Finally, teaching students is another important part of this mission. Although t
 While teaching is incredibly fulfilling, it is also quite demanding, particularly for someone like me. 
 Nonetheless, I am happy to have taught and to continue teaching a few select courses that are especially meaningful to me. 
 I now primarily dedicate my teaching activities to lectures on autism for universities (as detailed below), but also for organizations (see my <a href="/CV/">CV</a>), in France and Switzerland.
+
+## Mount Holyoke College, Massachusetts, USA
+
+- 2025 : Autism Research – Research Method Guest Talk (1h): Undergraduate course of Dr Travis E. Hodges. Department of Psychology & Education, Neuroscience & Behavior Program
+
+## University Savoie Mont-Blanc, France
+
+- 2025: Autism in females – 3.5h class for the Inter University Diploma Autism
+
 
 ## University of Geneva, Switzerland
 

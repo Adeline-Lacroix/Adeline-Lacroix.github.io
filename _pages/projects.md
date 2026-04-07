@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+I’ve had the opportunity to contribute to and take part in a range of collaborative projects focused on autism. These projects are listed in my my <a href="/CV/">CV</a>), but I highlight a selection of them in more detail on this page.
+
 ## Sex and Gender Differences in Autism
 
 My research focused on autism, with a particular interest in understanding and characterizing sex and gender differences. 
