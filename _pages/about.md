@@ -13,12 +13,11 @@ I completed my PhD, under the supervision of Pr Martial Mermillod and Dr Marie G
 Now, I’m diving into new adventures as a postdoctoral fellow under the supervision of Dr Meng-Chuan Lai at the Campbell Family Mental Health Research Institute at [CAMH](https://www.camh.ca) in Toronto (Canada). 
 I’m grateful to have developed collaborations with many talented scientists and to be involved in truly exciting projects.  
 
-I’m a strong advocate for **participatory research** in autism because I believe that the intersection of diverse perspectives, especially those of individuals directly involved in the issues at hand, is the best way to advance our understanding of complex topics. 
+I’m a strong advocate for **participatory research** in autism because I believe that the intersection of diverse perspectives is the best way to advance our understanding of complex topics. 
 I’m currently working to foster this type of research in France. 
 Related to that, I am particularly interested in developing future practices that help us include individuals who are minimally verbal or have intellectual disabilities. I am also dedicated to making research more accessible to a wide audience through writing, oral presentations and media.  
 
-In addition, I am particularly sensitive to **open science** practices, from pre-registration to sharing code, data, and materials, because I find it essential to conduct rigorous and reproducible science. 
-This belief has also sparked my interest in **methodology** and statistics. 
+In addition, I am particularly sensitive to **open science** practices, from pre-registration to sharing code, data, and materials, to make science more rigorous, reproducible science and collaborative. 
 
 Outside of my research, I advocate for autism as a member of the [PAARI](https://www.paari.fr) and Autisme Bassin Lémanique organizations. 
 I also enjoy sewing, am an animal lover (mom to a horse and a dog), and deeply care about environmental issues.  
