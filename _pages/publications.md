@@ -10,15 +10,17 @@ Here is a selection of my publications. You can also find a more exhaustive list
 ## Peer-reviewed journal articles
 
 ### 2026
-1. **Lacroix, A.**, Vallet, W. Lai, M.-C., Langloys, D. , Pignard, M., Brunelin, J., Dubreucq, M., & Demily, C. *Divergent Perceptions of Autistic Parents Among Healthcare, Social-care and Judicial Professionals and Autistic Adults: A Participatory Study*. *Autism in Adulthood.* 25739581261457376. <a href="https://doi.org/10.1177/25739581261457376">https://doi.org/10.1177/25739581261457376</a> (post-doc 2)
+1. **Lacroix, A.**, Vallet, W., Lai, M.-C., Langloys, D., Pignard, M., Brunelin, J., Dubreucq, M., & Demily, C. *Divergent Perceptions of Autistic Parents Among Healthcare, Social-care and Judicial Professionals and Autistic Adults: A Participatory Study*. *Autism in Adulthood.* 25739581261457376. <a href="https://doi.org/10.1177/25739581261457376">https://doi.org/10.1177/25739581261457376</a> (post-doc 2)
 
 2. **Lacroix, A.**, Burnel, M., Baciu, M., Occelli, P., Perrone-Bertolotti, M., David, M., & Ego, A. *School Participation in Autistic Girls and Boys: The Role of Social-Communication Abilities and Extrinsic Barriers*. *Autism*. <a href="https://doi.org/10.1177/13623613261428668">https://doi.org/10.1177/13623613261428668</a> (post-doc 1; preregistered on OSF)
 
 3. David, M., **Lacroix, A.**, Burnel, M., Baciu, M., Perrone-Bertolotti, M., Occelli, P., & Ego, A. *Diagnostic pathway for autism in children and adolescents: adequacy with practice guidelines*. *Bulletin Épidémiologique Hebdomadaire* <a href="https://beh.santepubliquefrance.fr/beh/2026/14/2026_14_2.html">https://beh.santepubliquefrance.fr/beh/2026/14/2026_14_2.html</a> (post-doc 1)
 
-4. **Lacroix, A.**, Tzang, C.-C., Yu, J. X., Jacob, B. K., Alexandrovsky, M., Winge-Breen, A., Rodak, T., & Mai, M.-C. *Disproportionate Mental Health Risks in Autistic Females: A Rapid Review with Quantitative and Narrative Syntheses*. *Frontiers in Neuroendocrinology*, 80, 101229. <a href="https://doi.org/10.1016/j.yfrne.2025.101229">https://doi.org/10.1016/j.yfrne.2025.101229</a> (post-doc 2)
-*
-5.	Leclerc, A., **Lacroix, A.**, Mermillod, M., Kauffmann, L., Favre, P. *Challenging the predictive coarse-to-fin hypothesis in emotional face perception*.  *Visual Cognition (Accepted)*.
+4. **Lacroix, A.**, Tzang, C.-C., Yu, J. X., Jacob, B. K., Alexandrovsky, M., Winge-Breen, A., Rodak, T., & Lai, M.-C. *Disproportionate Mental Health Risks in Autistic Females: A Rapid Review with Quantitative and Narrative Syntheses*. *Frontiers in Neuroendocrinology*, 80, 101229. <a href="https://doi.org/10.1016/j.yfrne.2025.101229">https://doi.org/10.1016/j.yfrne.2025.101229</a> (post-doc 2)
+
+5. Leclerc, A., **Lacroix, A.**, Mermillod, M., Kauffmann, L., Favre, P. *Challenging the predictive coarse-to-fine hypothesis in emotional face perception*. *Visual Cognition*, 34(1), 67–83. <a href="https://doi.org/10.1080/13506285.2026.2720102">https://doi.org/10.1080/13506285.2026.2720102</a>.
+
+6. Begue, L., Tien, I., Ylla-Sommers, T., & **Lacroix, A.** *The relationship between autism and cognitive reflection: A large-scale investigation of 50,000 university students*. *Research in Autism*. (post-doc 2)
 
 ### 2025
 1. **Lacroix, A.**, Torija, E., Logemann, A., Baciu, M., Cserjesi, R., Dutheil, F., Gomot, M., & Mermillod, M. *Cognitive flexibility in autism: How task predictability and sex influence performance*. *Autism Research*, 18(2), 281–294. <a href="https://doi.org/10.1002/aur.3281">https://doi.org/10.1002/aur.3281</a> (post-doc 1; preregistered on OSF) **Wiley Top 10 Most-Cited Paper. Wiley Top 10 Most-Viewed Paper.** 
@@ -54,22 +56,11 @@ Here is a selection of my publications. You can also find a more exhaustive list
 
 ## Other articles
 
-### 2025
-18. **Lacroix, A.** & Lai, M.-C. *Subtle and unseen: Understanding the nuanced autism profiles in female individuals*. *Annales Médico-Psychologiques* (accepted; invited; editor-reviewed). (post-doc 2)
+### 2026
+18. **Lacroix, A.** & Lai, M.-C. *Subtle and unseen: Understanding the nuanced autism profiles in female individuals*. *Annales Médico-Psychologiques*. <a href="https://doi.org/10.1016/j.amp.2026.07.014">https://doi.org/10.1016/j.amp.2026.07.014</a> (invited; editor-reviewed). (post-doc 2)
 
 ### 2019
 19. **Lacroix, A.** & Cazalis, F. *Comment caractériser les femmes autistes à l’âge adulte*. In S. Topouzkhanian & G. Hilaire-Debove (Eds.), *Troubles du spectre de l’autisme : recherche et orthophonie, Actes 2019* (pp. 35–68). Paris, France: Ortho Édition. <a href="https://hal.archives-ouvertes.fr/hal-02993446">https://hal.archives-ouvertes.fr/hal-02993446</a>
-
-## Submitted articles
-
-### 2026
-1. **Lacroix, A.**, Vallet, W., Lai, M.-C., Langloys, D., Pignard, M., Brunelin, J., Dubreucq, M., & Demily, C. *Divergent Perceptions of Autistic Parents Among Healthcare, Social-Care and Judicial Professionals and Autistic Adults: A Participatory Study*. *Autism in Adulthood* (in revision). (post-doc 1–2)
-
-2. Begue, L., Tien, I., Ylla-Sommers, T., & **Lacroix, A.** *The relationship between autism and cognitive reflection: A large-scale investigation of 50,000 university students*. *Journal of Autism and Developmental Disorders*. (submitted; post-doc 2)
-
-3. Alexandrovsky, M., Bull, S., Chang, S., Coombs, E., Cross, D., Cusson, N., Lacarte, S., **Lacroix, A.**, Moon, R., Morphet, M., Nadalini, O., Pabla, M., Pace-Tonna, C., Pearson, H., Petherick, B., Salvati, V., Sim, C., Smith, D., Urbaniak, K., Winge-Breen, A., Wozniak, J., & Lai, M.-C. *Reappraising Social Attention Tasks in Autism Research: A Pathway to Neurodiversity-Centered Revision*. *Autism in Adulthood*. (submitted; post-doc 2)
-
-4. Leclerc, A., **Lacroix, A.**, Mermillod, M., Kauffmann, L., & Favre, P. *Challenging the predictive coarse-to-fine hypothesis in emotional face perception*. *Visual Cognition*. (submitted; post-doc 2)
 
 ## Books
 
